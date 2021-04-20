@@ -1,4 +1,4 @@
-import random 
+import random
 numero1= int(input('Ingrese un numero: '))
 numero2= int(input('Ingrese un numero: '))
 while (numero1 or numero2 != -1):
