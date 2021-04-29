@@ -1,0 +1,1650 @@
+region sanitaria,partido,dependencia,nombre,especialidad,año,cant_camas_criticas
+I,BAHIA BLANCA,Municipales,Hosp. Munic. de Agudos Dr. Leónidas Lucero,TERAPIA INTENSIVA,2016,13
+I,CARMEN DE PATAGONES,Municipales,Hosp. Munic. de Agudos Dr. Pedro Ecay,TERAPIA INTENSIVA,2016,4
+I,CORONEL PRINGLES,Municipales,Hosp. Munic. Dr. Cabrera,TERAPIA INTENSIVA,2016,4
+I,CORONEL SUAREZ,Municipales,Hosp. Munic. de Cnel. Suárez,TERAPIA INTENSIVA,2016,4
+I,PUAN,Municipales,Hosp. Munic. Gobernador Ugarte,TERAPIA INTENSIVA,2016,4
+I,SAAVEDRA,Municipales,Hosp. y Maternidad Munic. O. F. Ducos,TERAPIA INTENSIVA,2016,4
+I,TRES ARROYOS,Municipales,Hosp. Ignacio Pirovano,TERAPIA INTENSIVA,2016,5
+I,BAHIA BLANCA,Municipales,Hosp. Munic. de Agudos Dr. Leónidas Lucero,TERAPIA INTENSIVA,2015,13
+I,CARMEN DE PATAGONES,Municipales,Hosp. Munic. de Agudos Dr. Pedro Ecay,TERAPIA INTENSIVA,2015,4
+II,CARLOS CASARES,Municipales,Hosp. Munic. Dr. Julio F. Ramos,TERAPIA INTENSIVA,2016,5
+II,NUEVE DE JULIO,Provinciales,Hosp. Zonal Gral. de Ag. Julio de Vedia,TERAPIA INTENSIVA,2016,3
+II,TRENQUE LAUQUEN,Municipales,Hosp. Munic. Dr. Pedro T. Orellana,TERAPIA INTENSIVA,2016,12
+II,TRES LOMAS,Municipales,Hosp. Munic. Dr. Domingo V. Girotti,TERAPIA INTENSIVA,2016,1
+III,CHACABUCO,Municipales,Hosp. Munic. Ntra. Sra. del Carmen,TERAPIA INTENSIVA,2016,3
+III,GRAL PINTO,Municipales,Hosp. Munic. Dr. Alberto L. Videla,TERAPIA INTENSIVA,2016,4
+III,LINCOLN,Municipales,Hosp.Subz. Munic. Dr. R. O. Miravalle,TERAPIA INTENSIVA,2016,4
+III,CHACABUCO,Municipales,Hosp. Munic. Ntra. Sra. del Carmen,TERAPIA INTENSIVA,2015,3
+III,GRAL PINTO,Municipales,Hosp. Munic. Dr. Alberto L. Videla,TERAPIA INTENSIVA,2015,4
+III,LINCOLN,Municipales,Hosp.Subz. Munic. Dr. R. O. Miravalle,TERAPIA INTENSIVA,2015,4
+III,CHACABUCO,Municipales,Hosp. Munic. Ntra. Sra. del Carmen,TERAPIA INTENSIVA,2014,3
+IV,ARRECIFES,Municipales,Hosp. Munic. Santa Francisca Romana,TERAPIA INTENSIVA,2009,4
+IV,BARADERO,Municipales,Hosp. Subz. Gral. Dr. L. Piñeiro,TERAPIA INTENSIVA,2009,4
+IV,COLON,Municipales,Hosp. Munic. de Colón,TERAPIA INTENSIVA,2009,4
+IV,ROJAS,Municipales,Hosp. Subz. Gral. S. Unzué,TERAPIA INTENSIVA,2009,5
+IV,SALTO,Municipales,"Hosp. Munic. de Salto """"Presidente J. D. Perón""",TERAPIA INTENSIVA,2009,5
+IV,SAN ANDRES DE GILES,Municipales,Hosp. Munic. San Andrés,TERAPIA INTENSIVA,2009,6
+IV,SAN ANDRES DE GILES,Municipales,Hosp. Munic. San Andrés,UNIDAD CORONARIA,2009,5
+IV,SAN ANTONIO DE ARECO,Municipales,Hosp. Munic. Emilio Zerboni,TERAPIA INTENSIVA,2009,4
+IV,SAN PEDRO,Municipales,Hosp. Subz. Gral. Dr. E. Ruffo,TERAPIA INTENSIVA,2009,3
+IV,CARMEN DE ARECO,Provinciales,Hosp. Local Gral. Ntra. Sra. del Carmen,TERAPIA INTENSIVA,2009,4
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,TERAPIA INTENSIVA,2009,7
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,TERAPIA INTENSIVA INFANTIL,2009,5
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA,2009,12
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA INFANTIL,2009,8
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA NEONATOLOGICA,2009,12
+IV,ARRECIFES,Municipales,Hosp. Munic. Santa Francisca Romana,TERAPIA INTENSIVA,2010,4
+IV,BARADERO,Municipales,Hosp. Subz. Gral. Dr. L. Piñeiro,TERAPIA INTENSIVA,2010,4
+IV,COLON,Municipales,Hosp. Munic. de Colón,TERAPIA INTENSIVA,2010,4
+V,CAMPANA,Municipales,Hospital San José,CUIDADOS INTENSIVOS,2009,4
+V,CAMPANA,Municipales,Hospital San José,CUIDADOS INTENSIVOS,2010,4
+V,CAMPANA,Municipales,Hospital San José,CUIDADOS INTENSIVOS,2011,4
+V,CAMPANA,Municipales,Hospital San José,CUIDADOS INTENSIVOS,2012,4
+V,CAMPANA,Municipales,Hospital San José,CUIDADOS INTENSIVOS,2013,4
+V,CAMPANA,Municipales,Hospital San José,TERAPIA INTENSIVA,2014,7
+V,CAMPANA,Municipales,Hospital San José,CUIDADOS INTENSIVOS,2014,4
+V,CAMPANA,Municipales,Hospital San José,TERAPIA INTENSIVA,2015,7
+V,CAMPANA,Municipales,Hospital San José,TERAPIA INTENSIVA,2016,7
+V,CAMPANA,Municipales,Hospital San José,UNIDAD CORONARIA,2016,9
+V,EXALTACION DE LA CRUZ,Municipales,Hosp. Munic. San José,TERAPIA INTENSIVA,2009,4
+V,EXALTACION DE LA CRUZ,Municipales,Hosp. Munic. San José,TERAPIA INTENSIVA,2010,4
+V,EXALTACION DE LA CRUZ,Municipales,Hosp. Munic. San José,TERAPIA INTENSIVA,2011,4
+V,EXALTACION DE LA CRUZ,Municipales,Hosp. Munic. San José,TERAPIA INTENSIVA,2012,4
+V,EXALTACION DE LA CRUZ,Municipales,Hosp. Munic. San José,TERAPIA INTENSIVA,2013,4
+V,EXALTACION DE LA CRUZ,Municipales,Hosp. Munic. San José,TERAPIA INTENSIVA,2014,6
+V,EXALTACION DE LA CRUZ,Municipales,Hosp. Munic. San José,TERAPIA INTENSIVA,2015,8
+V,EXALTACION DE LA CRUZ,Municipales,Hosp. Munic. San José,TERAPIA INTENSIVA,2016,8
+V,GRAL SAN MARTIN,Municipales,Hosp. Munic. Dr. D. E. Thompson,TERAPIA INTENSIVA,2009,7
+V,GRAL SAN MARTIN,Municipales,Hosp. Munic. Dr. D. E. Thompson,CUIDADOS INTENSIVOS,2010,7
+V,GRAL SAN MARTIN,Municipales,Hosp. Munic. Dr. D. E. Thompson,CUIDADOS INTENSIVOS,2011,7
+V,GRAL SAN MARTIN,Municipales,Hosp. Munic. Dr. D. E. Thompson,CUIDADOS INTENSIVOS,2012,7
+V,GRAL SAN MARTIN,Municipales,Hosp. Munic. Dr. D. E. Thompson,CUIDADOS INTENSIVOS,2013,7
+V,GRAL SAN MARTIN,Municipales,Hosp. Munic. Dr. D. E. Thompson,CUIDADOS INTENSIVOS,2014,7
+V,GRAL SAN MARTIN,Municipales,Hosp. Munic. Dr. D. E. Thompson,CUIDADOS INTENSIVOS,2015,7
+V,GRAL SAN MARTIN,Municipales,Hosp. Munic. Dr. D. E. Thompson,CUIDADOS INTENSIVOS,2016,7
+V,MALVINAS ARGENTINAS,Municipales,Ctro. de Alta Compl. Cardiovasc. Pte. J. D. Perón,TERAPIA INTENSIVA,2009,14
+V,MALVINAS ARGENTINAS,Municipales,Ctro. de Alta Compl. Cardiovasc. Pte. J. D. Perón,UNIDAD CORONARIA,2009,18
+V,MALVINAS ARGENTINAS,Municipales,Hosp. Munic. de Trauma y Emerg. Dr. F. A. Abete,TERAPIA INTENSIVA,2009,17
+V,MALVINAS ARGENTINAS,Municipales,Hosp. Munic. de Trauma y Emerg. Dr. F. A. Abete,TERAPIA INTENSIVA INFANTIL,2009,10
+V,MALVINAS ARGENTINAS,Municipales,Ctro. de Alta Compl. Cardiovasc. Pte. J. D. Perón,TERAPIA INTENSIVA,2010,9
+V,MALVINAS ARGENTINAS,Municipales,Ctro. de Alta Compl. Cardiovasc. Pte. J. D. Perón,UNIDAD CORONARIA,2010,20
+V,MALVINAS ARGENTINAS,Municipales,Hosp. Munic. de Trauma y Emerg. Dr. F. A. Abete,TERAPIA INTENSIVA,2010,18
+V,MALVINAS ARGENTINAS,Municipales,Hosp. Munic. de Trauma y Emerg. Dr. F. A. Abete,TERAPIA INTENSIVA INFANTIL,2010,11
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA,2016,5
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA INFANTIL,2016,8
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA NEONATOLOGICA,2016,8
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal. Gral. Ag. Dr. Arturo Oñativia,TERAPIA INTENSIVA,2016,9
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal. Gral. Ag. Dr. Arturo Oñativia,TERAPIA INTENSIVA NEONATOLOGICA,2016,6
+VI,AVELLANEDA,Municipales,Hosp. Munic. Dr. Eduardo Wilde,TERAPIA INTENSIVA,2016,6
+VI,AVELLANEDA,Provinciales,Hosp. Subz. Mat. Infantil Ana Goittia,TERAPIA INTENSIVA NEONATOLOGICA,2016,6
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Pedro Fiorito,TERAPIA INTENSIVA,2016,12
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Pedro Fiorito,UNIDAD CORONARIA,2016,6
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,TERAPIA INTENSIVA,2016,8
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,TERAPIA INTENSIVA NEONATOLOGICA,2016,3
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,UNIDAD CORONARIA,2016,7
+VI,BERAZATEGUI,Provinciales,Hosp. Zonal Gral. de Ag. Evita Pueblo,TERAPIA INTENSIVA,2016,8
+VI,BERAZATEGUI,Provinciales,Hosp. Zonal Gral. de Ag. Evita Pueblo,TERAPIA INTENSIVA NEONATOLOGICA,2016,25
+VI,ESTEBAN ECHEVERRIA,Municipales,Policlínico S. T. Santamarina,TERAPIA INTENSIVA,2016,7
+VI,ESTEBAN ECHEVERRIA,Municipales,Policlínico S. T. Santamarina,TERAPIA INTENSIVA NEONATOLOGICA,2016,7
+VI,EZEIZA,Provinciales,Hospital Interzonal Gral. Agudos Eurnekian,TERAPIA INTENSIVA,2016,6
+VI,EZEIZA,Provinciales,Hospital Interzonal Gral. Agudos Eurnekian,TERAPIA INTENSIVA NEONATOLOGICA,2016,8
+VI,FLORENCIO VARELA,Provinciales,Hosp. Zonal Gral. de Ag. Mi Pueblo,TERAPIA INTENSIVA,2016,10
+VI,FLORENCIO VARELA,Provinciales,Hosp. Zonal Gral. de Ag. Mi Pueblo,TERAPIA INTENSIVA NEONATOLOGICA,2016,23
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,ADMISION PACIENTE CRITICO,2016,11
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,TERAPIA INTENSIVA,2016,24
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,UNIDAD CORONARIA,2016,24
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,TERAPIA INTENSIVA INFANTIL,2016,26
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,TERAPIA INTENSIVA,2016,4
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,UNIDAD CORONARIA,2016,5
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,TERAPIA INTENSIVA NEONATOLOGICA,2016,3
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,TERAPIA INTENSIVA,2016,8
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,UNIDAD CORONARIA,2016,8
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,CUIDADOS INTENSIVOS PEDIATRICOS,2016,5
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,TERAPIA INTENSIVA NEONATOLOGICA,2016,5
+VI,LOMAS DE ZAMORA,Municipales,Hosp. Mat. Infantil Dr. Oscar E. Alende,TERAPIA INTENSIVA INFANTIL,2016,6
+VI,LOMAS DE ZAMORA,Municipales,Hosp. Mat. Infantil Dr. Oscar E. Alende,TERAPIA INTENSIVA NEONATOLOGICA,2016,12
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,TERAPIA INTENSIVA,2016,8
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,UNIDAD CORONARIA,2016,5
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,TERAPIA INTENSIVA NEONATOLOGICA,2016,16
+VI,QUILMES,Municipales,Hosp. Subz. Esp. Mat. Infantil Dr. Eduardo Oller,TERAPIA INTENSIVA NEONATOLOGICA,2016,11
+VI,QUILMES,Provinciales,Hosp. Zonal Gral. de Ag. Dr. I. Iriarte,TERAPIA INTENSIVA,2016,10
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes,TERAPIA INTENSIVA,2016,9
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes,TERAPIA INTENSIVA INFANTIL,2016,6
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes,TERAPIA INTENSIVA NEONATOLOGICA,2016,17
+VII,GRAL RODRIGUEZ,Nacionales,Hosp. Nac. Dr. Baldomero Sommer,CUIDADOS INTENSIVOS,2016,12
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes,TERAPIA INTENSIVA,2015,10
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes,TERAPIA INTENSIVA NEONATOLOGICA,2015,16
+VII,GRAL RODRIGUEZ,Nacionales,Hosp. Nac. Dr. Baldomero Sommer,CUIDADOS INTENSIVOS,2015,13
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes(año 2013),TERAPIA INTENSIVA,2014,11
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes(año 2013),TERAPIA INTENSIVA INFANTIL,2014,6
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes(año 2013),TERAPIA INTENSIVA NEONATOLOGICA,2014,21
+VII,GRAL RODRIGUEZ,Nacionales,Hosp. Nac. Dr. Baldomero Sommer,CUIDADOS INTENSIVOS,2014,14
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes,TERAPIA INTENSIVA,2013,11
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes,TERAPIA INTENSIVA INFANTIL,2013,6
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes,TERAPIA INTENSIVA NEONATOLOGICA,2013,21
+VII,GRAL RODRIGUEZ,Nacionales,Hosp. Nac. Dr. Baldomero Sommer,CUIDADOS INTENSIVOS,2013,16
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes,TERAPIA INTENSIVA,2012,11
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes,TERAPIA INTENSIVA INFANTIL,2012,5
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes,TERAPIA INTENSIVA NEONATOLOGICA,2012,22
+VII,GRAL RODRIGUEZ,Nacionales,Hosp. Nac. Dr. Baldomero Sommer,CUIDADOS INTENSIVOS,2012,17
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes,TERAPIA INTENSIVA,2011,11
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes,TERAPIA INTENSIVA INFANTIL,2011,8
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes,TERAPIA INTENSIVA NEONATOLOGICA,2011,20
+VII,GRAL RODRIGUEZ,Nacionales,Hosp. Nac. Dr. Baldomero Sommer,CUIDADOS INTENSIVOS,2011,16
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes,TERAPIA INTENSIVA,2010,11
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes,TERAPIA INTENSIVA INFANTIL,2010,7
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes,TERAPIA INTENSIVA NEONATOLOGICA,2010,28
+VII,GRAL RODRIGUEZ,Nacionales,Hosp. Nac. Dr. Baldomero Sommer,CUIDADOS INTENSIVOS,2010,16
+VIII,AYACUCHO,Municipales,Hosp. Local Munic. Dr. Pedro Solanet,TERAPIA INTENSIVA,2016,5
+VIII,BALCARCE,Municipales,Hosp. Subz. Munic. de Balcarce,TERAPIA INTENSIVA,2016,7
+VIII,GRAL ALVARADO,Municipales,Hosp. Munic. Dr. Mariano Cassano,TERAPIA INTENSIVA,2016,4
+VIII,GRAL MADARIAGA,Municipales,Hosp. Munic. Ana R. S. de Martínez Guerrero,TERAPIA INTENSIVA,2016,2
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Esp. Mat. Infantil Don V. Tetamanti,TERAPIA INTENSIVA INFANTIL,2016,8
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Esp. Mat. Infantil Don V. Tetamanti,TERAPIA INTENSIVA NEONATOLOGICA,2016,22
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Gral. de Ag. Dr. O. Alende,TERAPIA INTENSIVA,2016,15
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Gral. de Ag. Dr. O. Alende,UNIDAD CORONARIA,2016,8
+VIII,LA COSTA,Municipales,Hosp. Munic. Carlos F. Macías,TERAPIA INTENSIVA,2016,4
+VIII,LA COSTA,Municipales,Unid. Munic. Roberto L. Dios,TERAPIA INTENSIVA,2016,1
+VIII,LOBERIA,Municipales,Hosp. Munic. Gaspar Campos,TERAPIA INTENSIVA,2016,4
+VIII,MAIPU,Municipales,Hosp. Subz. de Maipú,TERAPIA INTENSIVA,2016,4
+VIII,NECOCHEA,Municipales,Hosp. Munic. Dr. Emilio Ferreyra,TERAPIA INTENSIVA,2016,6
+VIII,SAN CAYETANO,Municipales,Hosp. Munic. Alberto Menditeguy,TERAPIA INTENSIVA,2016,4
+VIII,TANDIL,Municipales,Hosp. Munic. Ramón Santamarina,TERAPIA INTENSIVA,2016,6
+VIII,VILLA GESELL,Municipales,Hosp. Munic. de Ag. Dr. Arturo Illia,TERAPIA INTENSIVA,2016,3
+IX,AZUL,Municipales,Hosp. Munic. Dr. Angel Pintos,CUIDADOS ESPECIALES,2016,15
+IX,AZUL,Municipales,Hosp. Munic. Dr. Angel Pintos,TERAPIA INTENSIVA,2016,6
+IX,BENITO JUAREZ,Municipales,Ente Descent. Hosp. Dr. A. Saintout,TERAPIA INTENSIVA,2016,5
+IX,BOLIVAR,Municipales,Hosp. Subz. Gral. Dr. M. A. Capredoni,TERAPIA INTENSIVA,2016,6
+IX,GRAL LA MADRID,Municipales,Hosp. Munic. M. Etchegaray,TERAPIA INTENSIVA,2016,4
+IX,LAPRIDA,Municipales,Hosp. Dr. Pedro S. Sancholuz,TERAPIA INTENSIVA,2016,5
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,TERAPIA INTENSIVA,2016,9
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,UNIDAD CORONARIA,2016,5
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,TERAPIA INTENSIVA INFANTIL,2016,4
+IX,RAUCH,Municipales,Hosp. Munic. Gral. E. Díaz Vélez,TERAPIA INTENSIVA,2016,4
+IX,AZUL,Municipales,Hosp. Munic. Dr. Angel Pintos,CUIDADOS ESPECIALES,2015,15
+IX,AZUL,Municipales,Hosp. Munic. Dr. Angel Pintos,TERAPIA INTENSIVA,2015,6
+IX,BENITO JUAREZ,Municipales,Ente Descent. Hosp. Dr. A. Saintout,TERAPIA INTENSIVA,2015,5
+IX,BOLIVAR,Municipales,Hosp. Subz. Gral. Dr. M. A. Capredoni,TERAPIA INTENSIVA,2015,6
+X,ALBERTI,Municipales,Hosp. Munic. Ntra. Sra. de la Merced,TERAPIA INTENSIVA,2016,4
+X,ALBERTI,Municipales,Hosp. Munic. Ntra. Sra. de la Merced,TERAPIA INTENSIVA,2015,4
+X,ALBERTI,Municipales,Hosp. Munic. Ntra. Sra. de la Merced,TERAPIA INTENSIVA,2014,4
+X,ALBERTI,Municipales,Hosp. Munic. Ntra. Sra. de la Merced,TERAPIA INTENSIVA,2013,4
+X,ALBERTI,Municipales,Hosp. Munic. Ntra. Sra. de la Merced,TERAPIA INTENSIVA,2012,4
+X,ALBERTI,Municipales,Hosp. Munic. Ntra. Sra. de la Merced,TERAPIA INTENSIVA,2011,4
+X,ALBERTI,Municipales,Hosp. Munic. Ntra. Sra. de la Merced,TERAPIA INTENSIVA,2010,4
+X,ALBERTI,Municipales,Hosp. Munic. Ntra. Sra. de la Merced,TERAPIA INTENSIVA,2009,4
+X,BRAGADO,Municipales,Hosp. Munic. San Luis,TERAPIA INTENSIVA,2016,3
+X,BRAGADO,Municipales,Hosp. Munic. San Luis,TERAPIA INTENSIVA,2015,4
+X,VEINTICINCO DE MAYO,Municipales,Hosp. Subz. Saturnino Unzué,TERAPIA INTENSIVA,2016,8
+XI,BERISSO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. M. V. Larraín,TERAPIA INTENSIVA,2016,9
+XI,BERISSO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. M. V. Larraín,TERAPIA INTENSIVA,2015,9
+XI,BERISSO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. M. V. Larraín,TERAPIA INTENSIVA,2014,9
+XI,BERISSO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. M. V. Larraín,TERAPIA INTENSIVA,2013,9
+XI,BERISSO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. M. V. Larraín,TERAPIA INTENSIVA,2012,9
+XI,BERISSO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. M. V. Larraín,TERAPIA INTENSIVA,2011,9
+XI,BERISSO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. M. V. Larraín,TERAPIA INTENSIVA,2010,9
+XI,BERISSO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. M. V. Larraín,TERAPIA INTENSIVA,2009,7
+XI,CHASCOMUS,Municipales,Hosp. San Vicente de Paul,TERAPIA INTENSIVA,2016,6
+XI,CHASCOMUS,Municipales,Hosp. San Vicente de Paul,TERAPIA INTENSIVA,2015,6
+XI,CHASCOMUS,Municipales,Hosp. San Vicente de Paul,TERAPIA INTENSIVA,2014,6
+XI,CHASCOMUS,Municipales,Hosp. San Vicente de Paul,TERAPIA INTENSIVA,2013,6
+XI,CHASCOMUS,Municipales,Hosp. San Vicente de Paul,TERAPIA INTENSIVA,2012,6
+XI,CHASCOMUS,Municipales,Hosp. San Vicente de Paul,TERAPIA INTENSIVA,2011,6
+XI,CHASCOMUS,Municipales,Hosp. San Vicente de Paul,TERAPIA INTENSIVA,2010,6
+XI,CHASCOMUS,Municipales,Hosp. San Vicente de Paul,TERAPIA INTENSIVA,2009,6
+XI,CORONEL BRANDSEN,Municipales,Hosp. Munic. Dr. Francisco Caram,TERAPIA INTENSIVA,2016,4
+XI,CORONEL BRANDSEN,Municipales,Hosp. Munic. Dr. Francisco Caram,TERAPIA INTENSIVA,2015,4
+XI,CORONEL BRANDSEN,Municipales,Hosp. Munic. Dr. Francisco Caram,TERAPIA INTENSIVA,2014,4
+XI,CORONEL BRANDSEN,Municipales,Hosp. Munic. Dr. Francisco Caram,TERAPIA INTENSIVA,2013,4
+XI,CORONEL BRANDSEN,Municipales,Hosp. Munic. Dr. Francisco Caram,TERAPIA INTENSIVA,2012,4
+XI,CORONEL BRANDSEN,Municipales,Hosp. Munic. Dr. Francisco Caram,TERAPIA INTENSIVA,2011,4
+XI,CORONEL BRANDSEN,Municipales,Hosp. Munic. Dr. Francisco Caram,TERAPIA INTENSIVA,2010,4
+XI,SAN VICENTE,Municipales,Hosp. Subz. Gral. Dr. R. Carrillo,TERAPIA INTENSIVA,2016,4
+XII,LA MATANZA,Municipales,Hosp. Mat. Infantil Dra. T. L. Germani,CUIDADOS ESPECIALES,2016,2
+XII,LA MATANZA,Municipales,Hosp. Munic. de Niños de San Justo,TERAPIA INTENSIVA INFANTIL,2016,9
+XII,LA MATANZA,Municipales,Policlínico Central San Justo,CUIDADOS ESPECIALES,2016,3
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,TERAPIA INTENSIVA,2016,7
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,UNIDAD CORONARIA,2016,7
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,TERAPIA INTENSIVA NEONATOLOGICA,2016,13
+XII,LA MATANZA,Provinciales,Hosp. Zonal de Ag. de González Catán Km.32,TERAPIA INTENSIVA,2016,12
+XII,LA MATANZA,Provinciales,Hospital Zonal General de Agudos Dr. Alberto Balestrini,CUIDADOS INTENSIVOS,2016,13
+I,CORONEL PRINGLES,Municipales,Hosp. Munic. Dr. Cabrera,TERAPIA INTENSIVA,2015,4
+I,CORONEL SUAREZ,Municipales,Hosp. Munic. de Cnel. Suárez,TERAPIA INTENSIVA,2015,4
+I,PUAN,Municipales,Hosp. Munic. Gobernador Ugarte,TERAPIA INTENSIVA,2015,4
+I,SAAVEDRA,Municipales,Hosp. y Maternidad Munic. O. F. Ducos,TERAPIA INTENSIVA,2015,4
+I,TRES ARROYOS,Municipales,Hosp. Ignacio Pirovano,TERAPIA INTENSIVA,2015,5
+I,BAHIA BLANCA,Municipales,Hosp. Munic. de Agudos Dr. Leónidas Lucero,TERAPIA INTENSIVA,2014,13
+I,CARMEN DE PATAGONES,Municipales,Hosp. Munic. de Agudos Dr. Pedro Ecay,TERAPIA INTENSIVA,2014,4
+I,CORONEL PRINGLES,Municipales,Hosp. Munic. Dr. Cabrera,TERAPIA INTENSIVA,2014,4
+I,CORONEL SUAREZ,Municipales,Hosp. Munic. de Cnel. Suárez,TERAPIA INTENSIVA,2014,4
+II,CARLOS CASARES,Municipales,Hosp. Munic. Dr. Julio F. Ramos,TERAPIA INTENSIVA,2015,5
+II,NUEVE DE JULIO,Provinciales,Hosp. Zonal Gral. de Ag. Julio de Vedia,TERAPIA INTENSIVA,2015,3
+II,TRENQUE LAUQUEN,Municipales,Hosp. Munic. Dr. Pedro T. Orellana,TERAPIA INTENSIVA,2015,12
+II,TRES LOMAS,Municipales,Hosp. Munic. Dr. Domingo V. Girotti,TERAPIA INTENSIVA,2015,1
+III,GRAL PINTO,Municipales,Hosp. Munic. Dr. Alberto L. Videla,TERAPIA INTENSIVA,2014,4
+III,LINCOLN,Municipales,Hosp.Subz. Munic. Dr. R. O. Miravalle,TERAPIA INTENSIVA,2014,4
+III,CHACABUCO,Municipales,Hosp. Munic. Ntra. Sra. del Carmen,TERAPIA INTENSIVA,2013,2
+III,GRAL PINTO,Municipales,Hosp. Munic. Dr. Alberto L. Videla,TERAPIA INTENSIVA,2013,4
+III,LINCOLN,Municipales,Hosp.Subz. Munic. Dr. R. O. Miravalle,TERAPIA INTENSIVA,2013,4
+III,CHACABUCO,Municipales,Hosp. Munic. Ntra. Sra. del Carmen,TERAPIA INTENSIVA,2012,3
+III,GRAL PINTO,Municipales,Hosp. Munic. Dr. Alberto L. Videla,TERAPIA INTENSIVA,2012,4
+IV,ROJAS,Municipales,Hosp. Subz. Gral. S. Unzué,TERAPIA INTENSIVA,2010,5
+IV,SALTO,Municipales,"Hosp. Munic. de Salto ""Presidente J. D. Perón""",TERAPIA INTENSIVA,2010,4
+IV,SAN ANDRES DE GILES,Municipales,Hosp. Munic. San Andrés,TERAPIA INTENSIVA,2010,6
+IV,SAN ANDRES DE GILES,Municipales,Hosp. Munic. San Andrés,UNIDAD CORONARIA,2010,5
+IV,SAN ANTONIO DE ARECO,Municipales,Hosp. Munic. Emilio Zerboni,TERAPIA INTENSIVA,2010,4
+IV,SAN PEDRO,Municipales,Hosp. Subz. Gral. Dr. E. Ruffo,TERAPIA INTENSIVA,2010,4
+IV,CARMEN DE ARECO,Provinciales,Hosp. Local Gral. Ntra. Sra. del Carmen,TERAPIA INTENSIVA,2010,4
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,CUIDADOS INTENSIVOS,2010,10
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,TERAPIA INTENSIVA,2010,6
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,TERAPIA INTENSIVA INFANTIL,2010,4
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA,2010,12
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA INFANTIL,2010,8
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA NEONATOLOGICA,2010,13
+IV,ARRECIFES,Municipales,Hosp. Munic. Santa Francisca Romana,TERAPIA INTENSIVA,2011,4
+IV,BARADERO,Municipales,Hosp. Subz. Gral. Dr. L. Piñeiro,TERAPIA INTENSIVA,2011,4
+IV,COLON,Municipales,Hosp. Munic. de Colón,TERAPIA INTENSIVA,2011,4
+IV,ROJAS,Municipales,Hosp. Subz. Gral. S. Unzué,TERAPIA INTENSIVA,2011,5
+IV,SALTO,Municipales,"Hosp. Munic. de Salto """"Presidente J. D. Perón""",TERAPIA INTENSIVA,2011,4
+V,MALVINAS ARGENTINAS,Municipales,Hospital Municipal de Rehabilitación Dr. A Drozdowski,TERAPIA INTENSIVA,2010,2
+V,MALVINAS ARGENTINAS,Municipales,Ctro. de Alta Compl. Cardiovasc. Pte. J. D. Perón,TERAPIA INTENSIVA,2011,3
+V,MALVINAS ARGENTINAS,Municipales,Ctro. de Alta Compl. Cardiovasc. Pte. J. D. Perón,UNIDAD CORONARIA,2011,24
+V,MALVINAS ARGENTINAS,Municipales,Hosp. Munic. de Trauma y Emerg. Dr. F. A. Abete,TERAPIA INTENSIVA,2011,17
+V,MALVINAS ARGENTINAS,Municipales,Hosp. Munic. de Trauma y Emerg. Dr. F. A. Abete,TERAPIA INTENSIVA INFANTIL,2011,12
+V,MALVINAS ARGENTINAS,Municipales,Hospital Municipal de Rehabilitación Dr. A Drozdowski,TERAPIA INTENSIVA,2011,11
+V,MALVINAS ARGENTINAS,Municipales,Ctro. de Alta Compl. Cardiovasc. Pte. J. D. Perón,UNIDAD CORONARIA,2012,32
+V,MALVINAS ARGENTINAS,Municipales,Hosp. Munic. de Trauma y Emerg. Dr. F. A. Abete,TERAPIA INTENSIVA,2012,34
+V,MALVINAS ARGENTINAS,Municipales,Hosp. Munic. de Trauma y Emerg. Dr. F. A. Abete,TERAPIA INTENSIVA INFANTIL,2012,22
+V,MALVINAS ARGENTINAS,Municipales,Hospital Municipal de Rehabilitación Dr. A Drozdowski,TERAPIA INTENSIVA,2012,11
+V,MALVINAS ARGENTINAS,Municipales,Ctro. de Alta Compl. Cardiovasc. Pte. J. D. Perón,UNIDAD CORONARIA,2013,34
+V,MALVINAS ARGENTINAS,Municipales,Hosp. Munic. de Trauma y Emerg. Dr. F. A. Abete,TERAPIA INTENSIVA,2013,32
+V,MALVINAS ARGENTINAS,Municipales,Hosp. Munic. de Trauma y Emerg. Dr. F. A. Abete,TERAPIA INTENSIVA INFANTIL,2013,16
+V,MALVINAS ARGENTINAS,Municipales,Hospital Municipal de Rehabilitación Dr. A Drozdowski,TERAPIA INTENSIVA,2013,10
+V,MALVINAS ARGENTINAS,Municipales,Ctro. de Alta Compl. Cardiovasc. Pte. J. D. Perón,UNIDAD CORONARIA,2014,31
+V,MALVINAS ARGENTINAS,Municipales,Hosp. Munic. de Trauma y Emerg. Dr. F. A. Abete,TERAPIA INTENSIVA,2014,32
+V,MALVINAS ARGENTINAS,Municipales,Hosp. Munic. de Trauma y Emerg. Dr. F. A. Abete,TERAPIA INTENSIVA INFANTIL,2014,15
+V,MALVINAS ARGENTINAS,Municipales,Hospital Municipal de Rehabilitación Dr. A Drozdowski,TERAPIA INTENSIVA,2014,10
+V,MALVINAS ARGENTINAS,Municipales,Ctro. de Alta Compl. Cardiovasc. Pte. J. D. Perón,UNIDAD CORONARIA,2015,31
+V,MALVINAS ARGENTINAS,Municipales,Hosp. Munic. de Trauma y Emerg. Dr. F. A. Abete,TERAPIA INTENSIVA,2015,30
+V,MALVINAS ARGENTINAS,Municipales,Hosp. Munic. de Trauma y Emerg. Dr. F. A. Abete,TERAPIA INTENSIVA INFANTIL,2015,15
+V,MALVINAS ARGENTINAS,Municipales,Hospital Municipal de Rehabilitación Dr. A Drozdowski,TERAPIA INTENSIVA,2015,10
+V,MALVINAS ARGENTINAS,Municipales,Ctro. de Alta Compl. Cardiovasc. Pte. J. D. Perón,UNIDAD CORONARIA,2016,31
+V,MALVINAS ARGENTINAS,Municipales,Hosp. Munic. de Trauma y Emerg. Dr. F. A. Abete,TERAPIA INTENSIVA,2016,29
+V,MALVINAS ARGENTINAS,Municipales,Hosp. Munic. de Trauma y Emerg. Dr. F. A. Abete,TERAPIA INTENSIVA INFANTIL,2016,15
+V,MALVINAS ARGENTINAS,Municipales,Hospital Municipal de Rehabilitación Dr. A Drozdowski,TERAPIA INTENSIVA,2016,10
+V,PILAR,Municipales,Hosp. Central de Pilar Juan C. Sanguinetti,TERAPIA INTENSIVA,2009,17
+V,PILAR,Municipales,Hosp. Munic. Pediátrico Dr. F. Falcón,TERAPIA INTENSIVA INFANTIL,2009,4
+V,SAN ISIDRO,Municipales,Hosp. Munic. Mat. Inf. Comodoro H. Meisner,TERAPIA INTENSIVA NEONATOLOGICA,2009,16
+V,PILAR,Municipales,Hosp. Central de Pilar Juan C. Sanguinetti,TERAPIA INTENSIVA,2010,16
+V,SAN ISIDRO,Municipales,Hosp. Munic. Mat. Inf. Comodoro H. Meisner,TERAPIA INTENSIVA NEONATOLOGICA,2010,19
+V,PILAR,Municipales,Hosp. Munic. Pediátrico Dr. F. Falcón,TERAPIA INTENSIVA INFANTIL,2010,4
+V,PILAR,Municipales,Hosp. Central de Pilar Juan C. Sanguinetti,TERAPIA INTENSIVA,2011,16
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA,2015,6
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA INFANTIL,2015,8
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA NEONATOLOGICA,2015,9
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal. Gral. Ag. Dr. Arturo Oñativia,TERAPIA INTENSIVA,2015,8
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal. Gral. Ag. Dr. Arturo Oñativia,TERAPIA INTENSIVA NEONATOLOGICA,2015,6
+VI,AVELLANEDA,Municipales,Hosp. Munic. Dr. Eduardo Wilde,TERAPIA INTENSIVA,2015,6
+VI,AVELLANEDA,Provinciales,Hosp. Subz. Mat. Infantil Ana Goittia,TERAPIA INTENSIVA NEONATOLOGICA,2015,6
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Pedro Fiorito,TERAPIA INTENSIVA,2015,12
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Pedro Fiorito,UNIDAD CORONARIA,2015,6
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,TERAPIA INTENSIVA,2015,7
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,TERAPIA INTENSIVA NEONATOLOGICA,2015,3
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,UNIDAD CORONARIA,2015,6
+VI,BERAZATEGUI,Provinciales,Hosp. Zonal Gral. de Ag. Evita Pueblo,TERAPIA INTENSIVA,2015,8
+VI,BERAZATEGUI,Provinciales,Hosp. Zonal Gral. de Ag. Evita Pueblo,TERAPIA INTENSIVA NEONATOLOGICA,2015,25
+VI,ESTEBAN ECHEVERRIA,Municipales,Policlínico S. T. Santamarina,TERAPIA INTENSIVA,2015,7
+VI,ESTEBAN ECHEVERRIA,Municipales,Policlínico S. T. Santamarina,TERAPIA INTENSIVA NEONATOLOGICA,2015,7
+VI,EZEIZA,Provinciales,Hospital Interzonal Gral. Agudos Eurnekian,TERAPIA INTENSIVA,2015,6
+VI,EZEIZA,Provinciales,Hospital Interzonal Gral. Agudos Eurnekian,TERAPIA INTENSIVA NEONATOLOGICA,2015,7
+VI,FLORENCIO VARELA,Provinciales,Hosp. Zonal Gral. de Ag. Mi Pueblo,TERAPIA INTENSIVA,2015,9
+VI,FLORENCIO VARELA,Provinciales,Hosp. Zonal Gral. de Ag. Mi Pueblo,TERAPIA INTENSIVA NEONATOLOGICA,2015,20
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,ADMISION PACIENTE CRITICO,2015,8
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,TERAPIA INTENSIVA,2015,17
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,UNIDAD CORONARIA,2015,16
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,TERAPIA INTENSIVA INFANTIL,2015,26
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,TERAPIA INTENSIVA,2015,4
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,UNIDAD CORONARIA,2015,5
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,TERAPIA INTENSIVA NEONATOLOGICA,2015,3
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,TERAPIA INTENSIVA,2015,8
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,UNIDAD CORONARIA,2015,7
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,CUIDADOS INTENSIVOS PEDIATRICOS,2015,5
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,TERAPIA INTENSIVA NEONATOLOGICA,2015,4
+VI,LOMAS DE ZAMORA,Municipales,Hosp. Mat. Infantil Dr. Oscar E. Alende,TERAPIA INTENSIVA INFANTIL,2015,6
+VI,LOMAS DE ZAMORA,Municipales,Hosp. Mat. Infantil Dr. Oscar E. Alende,TERAPIA INTENSIVA NEONATOLOGICA,2015,12
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,TERAPIA INTENSIVA,2015,8
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,UNIDAD CORONARIA,2015,5
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,TERAPIA INTENSIVA NEONATOLOGICA,2015,17
+VI,QUILMES,Municipales,Hosp. Subz. Esp. Mat. Infantil Dr. Eduardo Oller,TERAPIA INTENSIVA NEONATOLOGICA,2015,10
+VI,QUILMES,Provinciales,Hosp. Zonal Gral. de Ag. Dr. I. Iriarte,TERAPIA INTENSIVA,2015,10
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes,TERAPIA INTENSIVA,2009,10
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes,TERAPIA INTENSIVA INFANTIL,2009,5
+VII,GRAL RODRIGUEZ,Provinciales,Hosp. Interz. Gral. de Ag. Vte. Lopez y Planes,TERAPIA INTENSIVA NEONATOLOGICA,2009,23
+VII,LUJAN,Municipales,Hosp. Munic. Ntra. Sra. de Luján,TERAPIA INTENSIVA,2016,7
+VII,LUJAN,Nacionales,Colonia Nac. Dr. Manuel A. Montes de Oca,CUIDADOS ESPECIALES,2016,7
+VII,LUJAN,Municipales,Hosp. Munic. Ntra. Sra. de Luján,TERAPIA INTENSIVA,2015,7
+VII,LUJAN,Nacionales,Colonia Nac. Dr. Manuel A. Montes de Oca,CUIDADOS ESPECIALES,2015,8
+VII,LUJAN,Municipales,Hosp. Munic. Ntra. Sra. de Luján,TERAPIA INTENSIVA,2014,7
+VII,LUJAN,Nacionales,Colonia Nac. Dr. Manuel A. Montes de Oca,CUIDADOS ESPECIALES,2014,8
+VII,LUJAN,Municipales,Hosp. Munic. Ntra. Sra. de Luján,TERAPIA INTENSIVA,2013,7
+VII,LUJAN,Nacionales,Colonia Nac. Dr. Manuel A. Montes de Oca,CUIDADOS ESPECIALES,2013,8
+VII,LUJAN,Municipales,Hosp. Munic. Ntra. Sra. de Luján,TERAPIA INTENSIVA,2012,7
+VII,LUJAN,Nacionales,Colonia Nac. Dr. Manuel A. Montes de Oca,CUIDADOS ESPECIALES,2012,8
+VII,LUJAN,Municipales,Hosp. Munic. Ntra. Sra. de Luján,TERAPIA INTENSIVA,2011,5
+VII,LUJAN,Nacionales,Colonia Nac. Dr. Manuel A. Montes de Oca,CUIDADOS ESPECIALES,2011,8
+VII,LUJAN,Nacionales,Colonia Nac. Dr. Manuel A. Montes de Oca,CUIDADOS ESPECIALES,2010,9
+VII,LUJAN,Nacionales,Colonia Nac. Dr. Manuel A. Montes de Oca,CUIDADOS ESPECIALES,2009,9
+VII,MARCOS PAZ,Municipales,Hosp. Dr. Hétor J. D'Agnillo,TERAPIA INTENSIVA,2016,7
+VII,MARCOS PAZ,Municipales,Hosp. Dr. Hétor J. D'Agnillo,TERAPIA INTENSIVA,2015,7
+VII,MARCOS PAZ,Municipales,Hosp. Dr. Hétor J. D'Agnillo,TERAPIA INTENSIVA,2014,7
+VII,MARCOS PAZ,Municipales,Hosp. Dr. Hétor J. D'Agnillo,TERAPIA INTENSIVA,2013,7
+VII,MARCOS PAZ,Municipales,Hosp. Dr. Hétor J. D'Agnillo,TERAPIA INTENSIVA,2012,7
+VII,MARCOS PAZ,Municipales,Hosp. Dr. Hétor J. D'Agnillo,TERAPIA INTENSIVA,2011,7
+VII,MARCOS PAZ,Municipales,Hosp. Dr. Hétor J. D'Agnillo,TERAPIA INTENSIVA,2010,7
+VII,MARCOS PAZ,Municipales,Hosp. Dr. Hétor J. D'Agnillo,TERAPIA INTENSIVA,2009,4
+VII,MERLO,Municipales,Hosp. Munic. Eva Perón,TERAPIA INTENSIVA,2016,13
+VIII,AYACUCHO,Municipales,Hosp. Local Munic. Dr. Pedro Solanet,TERAPIA INTENSIVA,2015,5
+VIII,BALCARCE,Municipales,Hosp. Subz. Munic. de Balcarce,TERAPIA INTENSIVA,2015,7
+VIII,GRAL ALVARADO,Municipales,Hosp. Munic. Dr. Mariano Cassano,TERAPIA INTENSIVA,2015,4
+VIII,GRAL MADARIAGA,Municipales,Hosp. Munic. Ana R. S. de Martínez Guerrero,TERAPIA INTENSIVA,2015,3
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Esp. Mat. Infantil Don V. Tetamanti,TERAPIA INTENSIVA INFANTIL,2015,8
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Esp. Mat. Infantil Don V. Tetamanti,TERAPIA INTENSIVA NEONATOLOGICA,2015,20
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Gral. de Ag. Dr. O. Alende,TERAPIA INTENSIVA,2015,18
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Gral. de Ag. Dr. O. Alende,UNIDAD CORONARIA,2015,8
+VIII,LA COSTA,Municipales,Hosp. Munic. Carlos F. Macías,TERAPIA INTENSIVA,2015,4
+VIII,LA COSTA,Municipales,Unid. Munic. Roberto L. Dios,TERAPIA INTENSIVA,2015,2
+VIII,LOBERIA,Municipales,Hosp. Munic. Gaspar Campos,TERAPIA INTENSIVA,2015,4
+VIII,MAIPU,Municipales,Hosp. Subz. de Maipú,TERAPIA INTENSIVA,2015,4
+VIII,NECOCHEA,Municipales,Hosp. Munic. Dr. Emilio Ferreyra,TERAPIA INTENSIVA,2015,6
+VIII,SAN CAYETANO,Municipales,Hosp. Munic. Alberto Menditeguy,TERAPIA INTENSIVA,2015,4
+VIII,TANDIL,Municipales,Hosp. Munic. Ramón Santamarina,TERAPIA INTENSIVA,2015,6
+VIII,VILLA GESELL,Municipales,Hosp. Munic. de Ag. Dr. Arturo Illia,TERAPIA INTENSIVA,2015,3
+IX,GRAL LA MADRID,Municipales,Hosp. Munic. M. Etchegaray,TERAPIA INTENSIVA,2015,4
+IX,LAPRIDA,Municipales,Hosp. Dr. Pedro S. Sancholuz,TERAPIA INTENSIVA,2015,5
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,TERAPIA INTENSIVA,2015,8
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,UNIDAD CORONARIA,2015,5
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,TERAPIA INTENSIVA INFANTIL,2015,5
+IX,RAUCH,Municipales,Hosp. Munic. Gral. E. Díaz Vélez,TERAPIA INTENSIVA,2015,4
+IX,AZUL,Municipales,Hosp. Munic. Dr. Angel Pintos,CUIDADOS ESPECIALES,2014,15
+IX,AZUL,Municipales,Hosp. Munic. Dr. Angel Pintos,TERAPIA INTENSIVA,2014,9
+IX,BENITO JUAREZ,Municipales,Ente Descent. Hosp. Dr. A. Saintout,TERAPIA INTENSIVA,2014,5
+IX,BOLIVAR,Municipales,Hosp. Subz. Gral. Dr. M. A. Capredoni,TERAPIA INTENSIVA,2014,5
+IX,GRAL LA MADRID,Municipales,Hosp. Munic. M. Etchegaray,TERAPIA INTENSIVA,2014,4
+IX,LAPRIDA,Municipales,Hosp. Dr. Pedro S. Sancholuz,TERAPIA INTENSIVA,2014,5
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,TERAPIA INTENSIVA,2014,7
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,UNIDAD CORONARIA,2014,5
+X,BRAGADO,Municipales,Hosp. Munic. San Luis,TERAPIA INTENSIVA,2014,3
+X,BRAGADO,Municipales,Hosp. Munic. San Luis,TERAPIA INTENSIVA,2013,3
+X,BRAGADO,Municipales,Hosp. Munic. San Luis,TERAPIA INTENSIVA,2012,3
+X,BRAGADO,Municipales,Hosp. Munic. San Luis,TERAPIA INTENSIVA,2011,5
+X,BRAGADO,Municipales,Hosp. Munic. San Luis,TERAPIA INTENSIVA,2010,5
+X,BRAGADO,Municipales,Hosp. Munic. San Luis,TERAPIA INTENSIVA,2009,6
+X,CHIVILCOY,Municipales,Hosp. Munic. de Chivilcoy,TERAPIA INTENSIVA,2016,5
+X,CHIVILCOY,Municipales,Hosp. Munic. de Chivilcoy,TERAPIA INTENSIVA,2015,5
+X,CHIVILCOY,Municipales,Hosp. Munic. de Chivilcoy,TERAPIA INTENSIVA,2014,5
+X,VEINTICINCO DE MAYO,Municipales,Hosp. Subz. Saturnino Unzué,TERAPIA INTENSIVA,2015,8
+XI,CORONEL BRANDSEN,Municipales,Hosp. Munic. Dr. Francisco Caram,TERAPIA INTENSIVA,2009,3
+XI,DOLORES,Municipales,Unid. Hospitalaria San Roque,TERAPIA INTENSIVA,2016,6
+XI,DOLORES,Municipales,Unid. Hospitalaria San Roque,TERAPIA INTENSIVA,2015,6
+XI,DOLORES,Municipales,Unid. Hospitalaria San Roque,TERAPIA INTENSIVA,2014,6
+XI,DOLORES,Municipales,Unid. Hospitalaria San Roque,TERAPIA INTENSIVA,2013,5
+XI,DOLORES,Municipales,Unid. Hospitalaria San Roque,TERAPIA INTENSIVA,2012,6
+XI,DOLORES,Municipales,Unid. Hospitalaria San Roque,TERAPIA INTENSIVA,2011,6
+XI,DOLORES,Municipales,Unid. Hospitalaria San Roque,TERAPIA INTENSIVA,2010,6
+XI,DOLORES,Municipales,Unid. Hospitalaria San Roque,TERAPIA INTENSIVA,2009,5
+XI,ENSENADA,Provinciales,Hosp. Zonal Gral. de Agudos Dr. H. Cestino,TERAPIA INTENSIVA,2016,5
+XI,ENSENADA,Provinciales,Hosp. Zonal Gral. de Agudos Dr. H. Cestino,TERAPIA INTENSIVA,2015,6
+XI,ENSENADA,Provinciales,"Hosp. Zonal Gral. de Agudos """"Dr. H. Cestino""",TERAPIA INTENSIVA,2014,5
+XI,ENSENADA,Provinciales,"Hosp. Zonal Gral. de Agudos """"Dr. H. Cestino""",TERAPIA INTENSIVA,2013,3
+XI,ENSENADA,Provinciales,"Hosp. Zonal Gral. de Agudos """"Dr. H. Cestino""",TERAPIA INTENSIVA,2011,2
+XI,ENSENADA,Provinciales,"Hosp. Zonal Gral. de Agudos """"Dr. H. Cestino""",TERAPIA INTENSIVA,2010,6
+XI,ENSENADA,Provinciales,"Hosp. Zonal Gral. de Agudos """"Dr. H. Cestino""",TERAPIA INTENSIVA,2009,6
+XI,GRAL BELGRANO,Municipales,Hosp. Munic. Juan E. de la Fuente,TERAPIA INTENSIVA,2016,3
+XI,GRAL BELGRANO,Municipales,Hosp. Munic. Juan E. de la Fuente,TERAPIA INTENSIVA,2015,3
+XI,GRAL BELGRANO,Municipales,Hosp. Munic. Juan E. de la Fuente,TERAPIA INTENSIVA,2014,3
+XI,GRAL BELGRANO,Municipales,Hosp. Munic. Juan E. de la Fuente,TERAPIA INTENSIVA,2013,3
+XI,GRAL BELGRANO,Municipales,Hosp. Munic. Juan E. de la Fuente,TERAPIA INTENSIVA,2012,3
+XI,GRAL BELGRANO,Municipales,Hosp. Munic. Juan E. de la Fuente,TERAPIA INTENSIVA,2011,2
+XI,GRAL BELGRANO,Municipales,Hosp. Munic. Juan E. de la Fuente,TERAPIA INTENSIVA,2010,2
+XI,SAN VICENTE,Municipales,Hosp. Subz. Gral. Dr. R. Carrillo,TERAPIA INTENSIVA,2015,4
+XII,LA MATANZA,Municipales,Hosp. Mat. Infantil Dra. T. L. Germani,CUIDADOS ESPECIALES,2015,2
+XII,LA MATANZA,Municipales,Hosp. Munic. de Niños de San Justo,TERAPIA INTENSIVA INFANTIL,2015,10
+XII,LA MATANZA,Municipales,Policlínico Central San Justo,CUIDADOS ESPECIALES,2015,3
+XII,LA MATANZA,Municipales,Policlínico Central San Justo,CUIDADOS ESPECIALES INFANTILES,2015,6
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,TERAPIA INTENSIVA,2015,8
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,UNIDAD CORONARIA,2015,7
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,TERAPIA INTENSIVA NEONATOLOGICA,2015,13
+XII,LA MATANZA,Provinciales,Hosp. Zonal de Ag. de González Catán Km.32,TERAPIA INTENSIVA,2015,12
+XII,LA MATANZA,Provinciales,Hospital Zonal General de Agudos Dr. Alberto Balestrini,CUIDADOS INTENSIVOS,2015,12
+I,PUAN,Municipales,Hosp. Munic. Gobernador Ugarte,TERAPIA INTENSIVA,2014,4
+I,SAAVEDRA,Municipales,Hosp. y Maternidad Munic. O. F. Ducos,TERAPIA INTENSIVA,2014,4
+I,TRES ARROYOS,Municipales,Hosp. Ignacio Pirovano,TERAPIA INTENSIVA,2014,5
+I,BAHIA BLANCA,Municipales,Hosp. Munic. de Agudos Dr. Leónidas Lucero,TERAPIA INTENSIVA,2013,13
+I,CARMEN DE PATAGONES,Municipales,Hosp. Munic. de Agudos Dr. Pedro Ecay,TERAPIA INTENSIVA,2013,4
+I,CORONEL PRINGLES,Municipales,Hosp. Munic. Dr. Cabrera,TERAPIA INTENSIVA,2013,4
+I,CORONEL SUAREZ,Municipales,Hosp. Munic. de Cnel. Suárez,TERAPIA INTENSIVA,2013,4
+I,PUAN,Municipales,Hosp. Munic. Gobernador Ugarte,TERAPIA INTENSIVA,2013,4
+I,SAAVEDRA,Municipales,Hosp. y Maternidad Munic. O. F. Ducos,TERAPIA INTENSIVA,2013,4
+II,CARLOS CASARES,Municipales,Hosp. Munic. Dr. Julio F. Ramos,TERAPIA INTENSIVA,2014,5
+II,NUEVE DE JULIO,Provinciales,Hosp. Zonal Gral. de Ag. Julio de Vedia,TERAPIA INTENSIVA,2014,3
+II,TRENQUE LAUQUEN,Municipales,Hosp. Munic. Dr. Pedro T. Orellana,TERAPIA INTENSIVA,2014,12
+II,TRES LOMAS,Municipales,Hosp. Munic. Dr. Domingo V. Girotti,TERAPIA INTENSIVA,2014,1
+III,LINCOLN,Municipales,Hosp.Subz. Munic. Dr. R. O. Miravalle,TERAPIA INTENSIVA,2012,4
+III,CHACABUCO,Municipales,Hosp. Munic. Ntra. Sra. del Carmen,TERAPIA INTENSIVA,2011,3
+III,LINCOLN,Municipales,Hosp.Subz. Munic. Dr. R. O. Miravalle,TERAPIA INTENSIVA,2011,4
+III,CHACABUCO,Municipales,Hosp. Munic. Ntra. Sra. del Carmen,TERAPIA INTENSIVA,2010,3
+III,LINCOLN,Municipales,Hosp.Subz. Munic. Dr. R. O. Miravalle,TERAPIA INTENSIVA,2010,4
+III,CHACABUCO,Municipales,Hosp. Munic. Ntra. Sra. del Carmen,TERAPIA INTENSIVA,2009,3
+III,LINCOLN,Municipales,Hosp.Subz. Munic. Dr. R. O. Miravalle,TERAPIA INTENSIVA,2009,4
+IV,SAN ANDRES DE GILES,Municipales,Hosp. Munic. San Andrés,TERAPIA INTENSIVA,2011,6
+IV,SAN ANDRES DE GILES,Municipales,Hosp. Munic. San Andrés,UNIDAD CORONARIA,2011,5
+IV,SAN ANTONIO DE ARECO,Municipales,Hosp. Munic. Emilio Zerboni,TERAPIA INTENSIVA,2011,4
+IV,SAN PEDRO,Municipales,Hosp. Subz. Gral. Dr. E. Ruffo,TERAPIA INTENSIVA,2011,4
+IV,CARMEN DE ARECO,Provinciales,Hosp. Local Gral. Ntra. Sra. del Carmen,TERAPIA INTENSIVA,2011,4
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,CUIDADOS INTENSIVOS,2011,10
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,TERAPIA INTENSIVA,2011,6
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,TERAPIA INTENSIVA INFANTIL,2011,5
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA,2011,12
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA INFANTIL,2011,8
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA NEONATOLOGICA,2011,12
+IV,ARRECIFES,Municipales,Hosp. Munic. Santa Francisca Romana,TERAPIA INTENSIVA,2012,4
+IV,BARADERO,Municipales,Hosp. Subz. Gral. Dr. L. Piñeiro,TERAPIA INTENSIVA,2012,4
+IV,COLON,Municipales,Hosp. Munic. de Colón,TERAPIA INTENSIVA,2012,4
+IV,ROJAS,Municipales,Hosp. Subz. Gral. S. Unzué,TERAPIA INTENSIVA,2012,5
+IV,SALTO,Municipales,"Hosp. Munic. de Salto ""Presidente J. D. Perón""",TERAPIA INTENSIVA,2012,4
+IV,SAN ANDRES DE GILES,Municipales,Hosp. Munic. San Andrés,TERAPIA INTENSIVA,2012,6
+IV,SAN ANDRES DE GILES,Municipales,Hosp. Munic. San Andrés,UNIDAD CORONARIA,2012,5
+V,SAN ISIDRO,Municipales,Hosp. Munic. Mat. Inf. Comodoro H. Meisner,TERAPIA INTENSIVA NEONATOLOGICA,2011,20
+V,PILAR,Municipales,Hosp. Munic. Pediátrico Dr. F. Falcón,TERAPIA INTENSIVA INFANTIL,2011,4
+V,PILAR,Municipales,Hosp. Central de Pilar Juan C. Sanguinetti,TERAPIA INTENSIVA,2012,16
+V,SAN ISIDRO,Municipales,Hosp. Munic. Mat. Inf. Comodoro H. Meisner,TERAPIA INTENSIVA NEONATOLOGICA,2012,20
+V,PILAR,Municipales,Hosp. Munic. Pediátrico Dr. F. Falcón,TERAPIA INTENSIVA INFANTIL,2012,4
+V,PILAR,Municipales,Hosp. Central de Pilar Juan C. Sanguinetti,TERAPIA INTENSIVA,2013,16
+V,SAN ISIDRO,Municipales,Hosp. Munic. Mat. Inf. Comodoro H. Meisner,TERAPIA INTENSIVA NEONATOLOGICA,2013,22
+V,PILAR,Municipales,Hosp. Munic. Pediátrico Dr. F. Falcón,TERAPIA INTENSIVA INFANTIL,2013,4
+V,PILAR,Municipales,Hosp. Central de Pilar Juan C. Sanguinetti,TERAPIA INTENSIVA,2014,16
+V,SAN ISIDRO,Municipales,Hosp. Munic. Mat. Inf. Comodoro H. Meisner,TERAPIA INTENSIVA NEONATOLOGICA,2014,20
+V,PILAR,Municipales,Hosp. Munic. Pediátrico Dr. F. Falcón,TERAPIA INTENSIVA INFANTIL,2014,4
+V,PILAR,Municipales,Hosp. Central de Pilar Juan C. Sanguinetti,TERAPIA INTENSIVA,2015,16
+V,SAN ISIDRO,Municipales,Hosp. Munic. Mat. Inf. Comodoro H. Meisner,TERAPIA INTENSIVA NEONATOLOGICA,2015,20
+V,PILAR,Municipales,Hosp. Munic. Pediátrico Dr. F. Falcón,TERAPIA INTENSIVA INFANTIL,2015,4
+V,PILAR,Municipales,Hosp. Central de Pilar Juan C. Sanguinetti,TERAPIA INTENSIVA,2016,16
+V,SAN ISIDRO,Municipales,Hosp. Munic. Mat. Inf. Comodoro H. Meisner,TERAPIA INTENSIVA NEONATOLOGICA,2016,44
+V,PILAR,Municipales,Hosp. Munic. Pediátrico Dr. F. Falcón,TERAPIA INTENSIVA INFANTIL,2016,5
+V,SAN FERNANDO,Municipales,Hosp. Mat. Infantil de San Isidron Dr. C. Gianantonio,TERAPIA INTENSIVA INFANTIL,2009,6
+V,SAN FERNANDO,Municipales,Hosp. Mat. Infantil de San Isidron Dr. C. Gianantonio,TERAPIA INTENSIVA INFANTIL,2010,6
+V,SAN FERNANDO,Municipales,Hosp. Mat. Infantil de San Isidron Dr. C. Gianantonio,TERAPIA INTENSIVA INFANTIL,2011,6
+V,SAN FERNANDO,Municipales,Hosp. Mat. Infantil de San Isidron Dr. C. Gianantonio,TERAPIA INTENSIVA INFANTIL,2012,6
+V,SAN FERNANDO,Municipales,Hosp. Mat. Infantil de San Isidron Dr. C. Gianantonio,TERAPIA INTENSIVA INFANTIL,2013,6
+V,SAN FERNANDO,Municipales,Hosp. Mat. Infantil de San Isidron Dr. C. Gianantonio,TERAPIA INTENSIVA INFANTIL,2014,6
+V,SAN FERNANDO,Municipales,Hosp. Mat. Infantil de San Isidron Dr. C. Gianantonio,TERAPIA INTENSIVA INFANTIL,2015,6
+V,SAN FERNANDO,Municipales,Hosp. Mat. Infantil de San Isidron Dr. C. Gianantonio,TERAPIA INTENSIVA INFANTIL,2016,6
+V,SAN ISIDRO,Municipales,Hosp. Central Munic. de San Isidro,TERAPIA INTENSIVA,2009,13
+V,SAN ISIDRO,Municipales,Hosp. Mat. Infantil de San Isidron Dr. C. Gianantonio,TERAPIA INTENSIVA NEONATOLOGICA,2009,10
+V,SAN ISIDRO,Municipales,Hosp. Central Munic. de San Isidro,TERAPIA INTENSIVA,2010,14
+V,SAN ISIDRO,Municipales,Hosp. Mat. Infantil de San Isidron Dr. C. Gianantonio,TERAPIA INTENSIVA NEONATOLOGICA,2010,10
+V,SAN ISIDRO,Municipales,Hosp. Central Munic. de San Isidro,TERAPIA INTENSIVA,2011,14
+V,SAN ISIDRO,Municipales,Hosp. Mat. Infantil de San Isidron Dr. C. Gianantonio,TERAPIA INTENSIVA NEONATOLOGICA,2011,10
+V,SAN ISIDRO,Municipales,Hosp. Central Munic. de San Isidro,TERAPIA INTENSIVA,2012,14
+V,SAN ISIDRO,Municipales,Hosp. Mat. Infantil de San Isidron Dr. C. Gianantonio,TERAPIA INTENSIVA NEONATOLOGICA,2012,10
+V,SAN ISIDRO,Municipales,Hosp. Central Munic. de San Isidro,TERAPIA INTENSIVA,2013,14
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA,2014,5
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA INFANTIL,2014,8
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA NEONATOLOGICA,2014,8
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal. Gral. Ag. Dr. Arturo Oñativia,TERAPIA INTENSIVA,2014,8
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal. Gral. Ag. Dr. Arturo Oñativia,TERAPIA INTENSIVA NEONATOLOGICA,2014,7
+VI,AVELLANEDA,Municipales,Hosp. Munic. Dr. Eduardo Wilde,TERAPIA INTENSIVA,2014,6
+VI,AVELLANEDA,Provinciales,Hosp. Subz. Mat. Infantil Ana Goittia,TERAPIA INTENSIVA NEONATOLOGICA,2014,6
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Pedro Fiorito,TERAPIA INTENSIVA,2014,12
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Pedro Fiorito,UNIDAD CORONARIA,2014,6
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,TERAPIA INTENSIVA,2014,8
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,TERAPIA INTENSIVA NEONATOLOGICA,2014,3
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,UNIDAD CORONARIA,2014,6
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,TERAPIA INTENSIVA INFANTIL,2014,5
+VI,BERAZATEGUI,Provinciales,Hosp. Zonal Gral. de Ag. Evita Pueblo,TERAPIA INTENSIVA,2014,8
+VI,BERAZATEGUI,Provinciales,Hosp. Zonal Gral. de Ag. Evita Pueblo,TERAPIA INTENSIVA NEONATOLOGICA,2014,25
+VI,ESTEBAN ECHEVERRIA,Municipales,Policlínico S. T. Santamarina,TERAPIA INTENSIVA,2014,7
+VI,ESTEBAN ECHEVERRIA,Municipales,Policlínico S. T. Santamarina,TERAPIA INTENSIVA NEONATOLOGICA,2014,7
+VI,EZEIZA,Provinciales,Hospital Interzonal Gral. Agudos Eurnekian,TERAPIA INTENSIVA,2014,7
+VI,EZEIZA,Provinciales,Hospital Interzonal Gral. Agudos Eurnekian,TERAPIA INTENSIVA NEONATOLOGICA,2014,7
+VI,FLORENCIO VARELA,Provinciales,Hosp. Zonal Gral. de Ag. Mi Pueblo,TERAPIA INTENSIVA,2014,6
+VI,FLORENCIO VARELA,Provinciales,Hosp. Zonal Gral. de Ag. Mi Pueblo,TERAPIA INTENSIVA NEONATOLOGICA,2014,27
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,ADMISION PACIENTE CRITICO,2014,11
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,TERAPIA INTENSIVA,2014,16
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,UNIDAD CORONARIA,2014,16
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,TERAPIA INTENSIVA INFANTIL,2014,26
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,TERAPIA INTENSIVA,2014,4
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,UNIDAD CORONARIA,2014,5
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,TERAPIA INTENSIVA NEONATOLOGICA,2014,5
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,TERAPIA INTENSIVA,2014,8
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,UNIDAD CORONARIA,2014,8
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,CUIDADOS INTENSIVOS PEDIATRICOS,2014,5
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,TERAPIA INTENSIVA NEONATOLOGICA,2014,8
+VI,LOMAS DE ZAMORA,Municipales,Hosp. Mat. Infantil Dr. Oscar E. Alende,TERAPIA INTENSIVA INFANTIL,2014,6
+VI,LOMAS DE ZAMORA,Municipales,Hosp. Mat. Infantil Dr. Oscar E. Alende,TERAPIA INTENSIVA NEONATOLOGICA,2014,12
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,TERAPIA INTENSIVA,2014,8
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,UNIDAD CORONARIA,2014,5
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,TERAPIA INTENSIVA NEONATOLOGICA,2014,17
+VI,QUILMES,Municipales,Hosp. Subz. Esp. Mat. Infantil Dr. Eduardo Oller,TERAPIA INTENSIVA NEONATOLOGICA,2014,11
+VI,QUILMES,Provinciales,Hosp. Zonal Gral. de Ag. Dr. I. Iriarte,TERAPIA INTENSIVA,2014,10
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,TERAPIA INTENSIVA,2016,6
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,UNIDAD CORONARIA,2016,4
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,TERAPIA INTENSIVA NEONATOLOGICA,2016,8
+VII,MERLO,Municipales,Hosp. Munic. Eva Perón,TERAPIA INTENSIVA,2015,13
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,TERAPIA INTENSIVA,2015,6
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,UNIDAD CORONARIA,2015,4
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,TERAPIA INTENSIVA NEONATOLOGICA,2015,8
+VII,MERLO,Municipales,Hosp. Munic. Eva Perón,TERAPIA INTENSIVA,2014,13
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,TERAPIA INTENSIVA,2014,6
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,UNIDAD CORONARIA,2014,4
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,TERAPIA INTENSIVA NEONATOLOGICA,2014,8
+VII,MERLO,Municipales,Hosp. Munic. Eva Perón,TERAPIA INTENSIVA,2013,13
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,TERAPIA INTENSIVA,2013,6
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,UNIDAD CORONARIA,2013,4
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,TERAPIA INTENSIVA NEONATOLOGICA,2013,8
+VII,MERLO,Municipales,Hosp. Munic. Eva Perón,TERAPIA INTENSIVA,2012,14
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,TERAPIA INTENSIVA,2012,6
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,UNIDAD CORONARIA,2012,4
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,TERAPIA INTENSIVA NEONATOLOGICA,2012,6
+VII,MERLO,Municipales,Hosp. Munic. Eva Perón,TERAPIA INTENSIVA,2011,7
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,TERAPIA INTENSIVA,2011,6
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,UNIDAD CORONARIA,2011,4
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,TERAPIA INTENSIVA NEONATOLOGICA,2011,6
+VII,MERLO,Municipales,Hosp. Munic. Eva Perón,TERAPIA INTENSIVA,2010,7
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,TERAPIA INTENSIVA,2010,6
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,UNIDAD CORONARIA,2010,4
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,TERAPIA INTENSIVA NEONATOLOGICA,2010,6
+VIII,AYACUCHO,Municipales,Hosp. Local Munic. Dr. Pedro Solanet,TERAPIA INTENSIVA,2014,5
+VIII,BALCARCE,Municipales,Hosp. Subz. Munic. de Balcarce,TERAPIA INTENSIVA,2014,7
+VIII,GRAL ALVARADO,Municipales,Hosp. Munic. Dr. Mariano Cassano,TERAPIA INTENSIVA,2014,4
+VIII,GRAL MADARIAGA,Municipales,Hosp. Munic. Ana R. S. de Martínez Guerrero,TERAPIA INTENSIVA,2014,2
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Esp. Mat. Infantil Don V. Tetamanti,TERAPIA INTENSIVA INFANTIL,2014,8
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Esp. Mat. Infantil Don V. Tetamanti,TERAPIA INTENSIVA NEONATOLOGICA,2014,20
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Gral. de Ag. Dr. O. Alende,TERAPIA INTENSIVA,2014,18
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Gral. de Ag. Dr. O. Alende,UNIDAD CORONARIA,2014,8
+VIII,LA COSTA,Municipales,Hosp. Munic. Carlos F. Macías,CUIDADOS ESPECIALES,2014,1
+VIII,LA COSTA,Municipales,Hosp. Munic. Carlos F. Macías,TERAPIA INTENSIVA,2014,5
+VIII,LA COSTA,Municipales,Unid. Munic. Roberto L. Dios,TERAPIA INTENSIVA,2014,2
+VIII,LOBERIA,Municipales,Hosp. Munic. Gaspar Campos,TERAPIA INTENSIVA,2014,4
+VIII,MAIPU,Municipales,Hosp. Subz. de Maipú,TERAPIA INTENSIVA,2014,4
+VIII,NECOCHEA,Municipales,Hosp. Munic. Dr. Emilio Ferreyra,TERAPIA INTENSIVA,2014,6
+VIII,SAN CAYETANO,Municipales,Hosp. Munic. Alberto Menditeguy,TERAPIA INTENSIVA,2014,4
+VIII,TANDIL,Municipales,Hosp. Munic. Ramón Santamarina,TERAPIA INTENSIVA,2014,6
+VIII,VILLA GESELL,Municipales,Hosp. Munic. de Ag. Dr. Arturo Illia,TERAPIA INTENSIVA,2014,4
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,TERAPIA INTENSIVA INFANTIL,2014,7
+IX,RAUCH,Municipales,Hosp. Munic. Gral. E. Díaz Vélez,TERAPIA INTENSIVA,2014,4
+IX,AZUL,Municipales,Hosp. Munic. Dr. Angel Pintos,CUIDADOS ESPECIALES,2013,15
+IX,AZUL,Municipales,Hosp. Munic. Dr. Angel Pintos,TERAPIA INTENSIVA,2013,6
+IX,BENITO JUAREZ,Municipales,Ente Descent. Hosp. Dr. A. Saintout,TERAPIA INTENSIVA,2013,5
+IX,BOLIVAR,Municipales,Hosp. Subz. Gral. Dr. M. A. Capredoni,TERAPIA INTENSIVA,2013,5
+IX,GRAL LA MADRID,Municipales,Hosp. Munic. M. Etchegaray,TERAPIA INTENSIVA,2013,4
+IX,LAPRIDA,Municipales,Hosp. Dr. Pedro S. Sancholuz,TERAPIA INTENSIVA,2013,5
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,TERAPIA INTENSIVA,2013,7
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,UNIDAD CORONARIA,2013,5
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,TERAPIA INTENSIVA INFANTIL,2013,7
+IX,RAUCH,Municipales,Hosp. Munic. Gral. E. Díaz Vélez,TERAPIA INTENSIVA,2013,4
+IX,AZUL,Municipales,Hosp. Munic. Dr. Angel Pintos,CUIDADOS ESPECIALES,2012,15
+IX,AZUL,Municipales,Hosp. Munic. Dr. Angel Pintos,TERAPIA INTENSIVA,2012,6
+IX,BENITO JUAREZ,Municipales,Ente Descent. Hosp. Dr. A. Saintout,TERAPIA INTENSIVA,2012,5
+X,CHIVILCOY,Municipales,Hosp. Munic. de Chivilcoy,TERAPIA INTENSIVA,2013,5
+X,CHIVILCOY,Municipales,Hosp. Munic. de Chivilcoy,TERAPIA INTENSIVA,2012,5
+X,CHIVILCOY,Municipales,Hosp. Munic. de Chivilcoy,TERAPIA INTENSIVA,2011,5
+X,CHIVILCOY,Municipales,Hosp. Munic. de Chivilcoy,TERAPIA INTENSIVA,2010,5
+X,CHIVILCOY,Municipales,Hosp. Munic. de Chivilcoy,TERAPIA INTENSIVA,2009,5
+X,LOBOS,Provinciales,Hosp. Zonal Gral. de Ag. de Lobos,TERAPIA INTENSIVA,2016,5
+X,LOBOS,Provinciales,Hosp. Zonal Gral. de Ag. de Lobos,TERAPIA INTENSIVA,2015,5
+X,MERCEDES,Provinciales,Hosp. Zonal Gral. de Agudos Blas Dubarry,TERAPIA INTENSIVA,2016,6
+X,VEINTICINCO DE MAYO,Municipales,Hosp. Subz. Saturnino Unzué,TERAPIA INTENSIVA,2014,8
+XI,GRAL BELGRANO,Municipales,Hosp. Munic. Juan E. de la Fuente,TERAPIA INTENSIVA,2009,2
+XI,LA PLATA,Provinciales,Hosp. Zonal Gral. de Ag. San Roque,CUIDADOS INTENSIVOS NEONATOLOGIA,2016,7
+XI,LA PLATA,Provinciales,Hosp. Zonal Gral. de Ag. San Roque,CUIDADOS INTENSIVOS,2016,17
+XI,LA PLATA,Provinciales,Hosp. Interz. Esp. de Ag. y Crón. Dr. A. Korn,TERAPIA INTENSIVA,2016,8
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. Rodolfo Rossi,TERAPIA INTENSIVA,2016,8
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. Rodolfo Rossi,UNIDAD CORONARIA,2016,7
+XI,LA PLATA,Provinciales,Hosp. Zonal Esp. Dr. Noel H. Sbarra,CUIDADOS ESPECIALES INFANTILES,2016,18
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. Esp. en Pediatría Sor María Ludovica,TERAPIA INTENSIVA INFANTIL,2016,20
+XI,LA PLATA,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Ricardo Gutierrez,TERAPIA INTENSIVA,2016,4
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. y Crón. San Juan de Dios,TERAPIA INTENSIVA,2016,8
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. y Crón. San Juan de Dios,UNIDAD CORONARIA,2016,11
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,TERAPIA INTENSIVA,2016,17
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,QUEMADO,2016,5
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,UNIDAD CORONARIA,2016,7
+XI,LA PLATA,Provinciales,Hosp. Zonal Gral. de Ag. San Roque,CUIDADOS INTENSIVOS NEONATOLOGIA,2015,6
+XI,LA PLATA,Provinciales,Hosp. Zonal Gral. de Ag. San Roque,CUIDADOS INTENSIVOS,2015,17
+XI,LA PLATA,Provinciales,Hosp. Interz. Esp. de Ag. y Crón. Dr. A. Korn,TERAPIA INTENSIVA,2015,7
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. Rodolfo Rossi,TERAPIA INTENSIVA,2015,8
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. Rodolfo Rossi,UNIDAD CORONARIA,2015,7
+XI,LA PLATA,Provinciales,Hosp. Zonal Esp. Dr. Noel H. Sbarra,CUIDADOS ESPECIALES INFANTILES,2015,18
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. Esp. en Pediatría Sor María Ludovica,TERAPIA INTENSIVA INFANTIL,2015,18
+XI,LA PLATA,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Ricardo Gutierrez,TERAPIA INTENSIVA,2015,4
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. y Crón. San Juan de Dios,TERAPIA INTENSIVA,2015,7
+XI,SAN VICENTE,Municipales,Hosp. Subz. Gral. Dr. R. Carrillo,TERAPIA INTENSIVA,2014,4
+XII,LA MATANZA,Municipales,Hosp. Mat. Infantil Dra. T. L. Germani,CUIDADOS ESPECIALES,2014,2
+XII,LA MATANZA,Municipales,Hosp. Munic. de Niños de San Justo,TERAPIA INTENSIVA INFANTIL,2014,8
+XII,LA MATANZA,Municipales,Policlínico Central San Justo,CUIDADOS ESPECIALES,2014,3
+XII,LA MATANZA,Municipales,Policlínico Central San Justo,CUIDADOS ESPECIALES INFANTILES,2014,6
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,TERAPIA INTENSIVA,2014,8
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,UNIDAD CORONARIA,2014,7
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,TERAPIA INTENSIVA NEONATOLOGICA,2014,13
+XII,LA MATANZA,Provinciales,Hosp. Zonal de Ag. de González Catán Km.32,TERAPIA INTENSIVA,2014,10
+XII,LA MATANZA,Provinciales,Hospital Zonal General de Agudos Dr. Alberto Balestrini,CUIDADOS INTENSIVOS,2014,7
+XII,LA MATANZA,Provinciales,Hospital Zonal General de Agudos Dr. Alberto Balestrini,UNIDAD CORONARIA,2014,3
+I,TRES ARROYOS,Municipales,Hosp. Ignacio Pirovano,TERAPIA INTENSIVA,2013,5
+I,BAHIA BLANCA,Municipales,Hosp. Munic. de Agudos Dr. Leónidas Lucero,TERAPIA INTENSIVA,2012,13
+I,CARMEN DE PATAGONES,Municipales,Hosp. Munic. de Agudos Dr. Pedro Ecay,TERAPIA INTENSIVA,2012,4
+I,CORONEL PRINGLES,Municipales,Hosp. Munic. Dr. Cabrera,TERAPIA INTENSIVA,2012,4
+I,CORONEL SUAREZ,Municipales,Hosp. Munic. de Cnel. Suárez,TERAPIA INTENSIVA,2012,4
+I,PUAN,Municipales,Hosp. Munic. Gobernador Ugarte,TERAPIA INTENSIVA,2012,3
+I,SAAVEDRA,Municipales,Hosp. y Maternidad Munic. O. F. Ducos,TERAPIA INTENSIVA,2012,4
+I,TRES ARROYOS,Municipales,Hosp. Ignacio Pirovano,TERAPIA INTENSIVA,2012,5
+I,BAHIA BLANCA,Municipales,Hosp. Munic. de Agudos Dr. Leónidas Lucero,TERAPIA INTENSIVA,2011,13
+II,CARLOS CASARES,Municipales,Hosp. Munic. Dr. Julio F. Ramos,TERAPIA INTENSIVA,2013,5
+II,NUEVE DE JULIO,Provinciales,Hosp. Zonal Gral. de Ag. Julio de Vedia,TERAPIA INTENSIVA,2013,3
+II,TRENQUE LAUQUEN,Municipales,Hosp. Munic. Dr. Pedro T. Orellana,TERAPIA INTENSIVA,2013,12
+II,TRES LOMAS,Municipales,Hosp. Munic. Dr. Domingo V. Girotti,TERAPIA INTENSIVA,2013,1
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,CUIDADOS ESPECIALES INFANTILES,2016,20
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA,2016,10
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA INFANTIL,2016,5
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA NEONATOLOGICA,2016,14
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,CUIDADOS ESPECIALES INFANTILES,2015,20
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA,2015,10
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA INFANTIL,2015,5
+IV,SAN ANTONIO DE ARECO,Municipales,Hosp. Munic. Emilio Zerboni,TERAPIA INTENSIVA,2012,4
+IV,SAN PEDRO,Municipales,Hosp. Subz. Gral. Dr. E. Ruffo(336),TERAPIA INTENSIVA,2012,4
+IV,CARMEN DE ARECO,Provinciales,Hosp. Local Gral. Ntra. Sra. del Carmen,TERAPIA INTENSIVA,2012,4
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,CUIDADOS INTENSIVOS,2012,10
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,TERAPIA INTENSIVA,2012,6
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,TERAPIA INTENSIVA INFANTIL,2012,4
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,UNIDAD CORONARIA,2012,1
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA,2012,12
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA INFANTIL,2012,8
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA NEONATOLOGICA,2012,13
+IV,ARRECIFES,Municipales,Hosp. Munic. Santa Francisca Romana,TERAPIA INTENSIVA,2013,4
+IV,BARADERO,Municipales,Hosp. Subz. Gral. Dr. L. Piñeiro,TERAPIA INTENSIVA,2013,4
+IV,CAPITAN SARMIENTO,Municipales,Hosp. Munic. San Carlos,TERAPIA INTENSIVA,2013,7
+IV,COLON,Municipales,Hosp. Munic. de Colón,TERAPIA INTENSIVA,2013,4
+IV,ROJAS,Municipales,Hosp. Subz. Gral. S. Unzué,TERAPIA INTENSIVA,2013,5
+IV,SALTO,Municipales,"Hosp. Munic. de Salto ""Presidente J. D. Perón""",TERAPIA INTENSIVA,2013,4
+IV,SAN ANDRES DE GILES,Municipales,Hosp. Munic. San Andrés,TERAPIA INTENSIVA,2013,6
+IV,SAN ANDRES DE GILES,Municipales,Hosp. Munic. San Andrés,UNIDAD CORONARIA,2013,5
+V,SAN ISIDRO,Municipales,Hosp. Mat. Infantil de San Isidron Dr. C. Gianantonio,TERAPIA INTENSIVA NEONATOLOGICA,2013,10
+V,SAN ISIDRO,Municipales,Hosp. Central Munic. de San Isidro,TERAPIA INTENSIVA,2014,14
+V,SAN ISIDRO,Municipales,Hosp. Mat. Infantil de San Isidron Dr. C. Gianantonio,TERAPIA INTENSIVA NEONATOLOGICA,2014,10
+V,SAN ISIDRO,Municipales,Hosp. Central Munic. de San Isidro,TERAPIA INTENSIVA,2015,14
+V,SAN ISIDRO,Municipales,Hosp. Mat. Infantil de San Isidron Dr. C. Gianantonio,TERAPIA INTENSIVA NEONATOLOGICA,2015,10
+V,SAN ISIDRO,Municipales,Hosp. Central Munic. de San Isidro,TERAPIA INTENSIVA,2016,14
+V,SAN ISIDRO,Municipales,Hosp. Mat. Infantil de San Isidron Dr. C. Gianantonio,TERAPIA INTENSIVA NEONATOLOGICA,2016,10
+V,SAN MIGUEL,Municipales,Hosp. Munic.Dr. Raúl F. Larcade,TERAPIA INTENSIVA,2009,5
+V,SAN MIGUEL,Municipales,Hosp. Munic.Dr. Raúl F. Larcade,TERAPIA INTENSIVA NEONATOLOGICA,2009,9
+V,SAN MIGUEL,Municipales,Hosp. Munic.Dr. Raúl F. Larcade,TERAPIA INTENSIVA,2010,5
+V,SAN MIGUEL,Municipales,Hosp. Munic.Dr. Raúl F. Larcade,TERAPIA INTENSIVA NEONATOLOGICA,2010,8
+V,SAN MIGUEL,Municipales,Hosp. Munic.Dr. Raúl F. Larcade,TERAPIA INTENSIVA,2011,5
+V,SAN MIGUEL,Municipales,Hosp. Munic.Dr. Raúl F. Larcade,TERAPIA INTENSIVA NEONATOLOGICA,2011,9
+V,SAN MIGUEL,Municipales,Hosp. Munic.Dr. Raúl F. Larcade,TERAPIA INTENSIVA,2012,5
+V,SAN MIGUEL,Municipales,Hosp. Munic.Dr. Raúl F. Larcade,TERAPIA INTENSIVA NEONATOLOGICA,2012,9
+V,SAN MIGUEL,Municipales,Hosp. Munic.Dr. Raúl F. Larcade,TERAPIA INTENSIVA,2013,7
+V,SAN MIGUEL,Municipales,Hosp. Munic.Dr. Raúl F. Larcade,TERAPIA INTENSIVA NEONATOLOGICA,2013,9
+V,SAN MIGUEL,Municipales,Hosp. Munic.Dr. Raúl F. Larcade,TERAPIA INTENSIVA,2014,12
+V,SAN MIGUEL,Municipales,Hosp. Munic.Dr. Raúl F. Larcade,TERAPIA INTENSIVA NEONATOLOGICA,2014,10
+V,SAN MIGUEL,Municipales,Hosp. Munic.Dr. Raúl F. Larcade,TERAPIA INTENSIVA,2015,14
+V,SAN MIGUEL,Municipales,Hosp. Munic.Dr. Raúl F. Larcade,TERAPIA INTENSIVA NEONATOLOGICA,2015,8
+V,SAN MIGUEL,Municipales,Hosp. Munic.Dr. Raúl F. Larcade,TERAPIA INTENSIVA,2016,16
+V,SAN MIGUEL,Municipales,Hosp. Munic.Dr. Raúl F. Larcade,TERAPIA INTENSIVA NEONATOLOGICA,2016,8
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,TERAPIA INTENSIVA NEONATOLOGICA,2009,7
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,TERAPIA INTENSIVA NEONATOLOGICA,2010,12
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,TERAPIA INTENSIVA NEONATOLOGICA,2011,12
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,TERAPIA INTENSIVA NEONATOLOGICA,2012,12
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,TERAPIA INTENSIVA NEONATOLOGICA,2013,12
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,TERAPIA INTENSIVA NEONATOLOGICA,2014,12
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,TERAPIA INTENSIVA NEONATOLOGICA,2015,12
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,TERAPIA INTENSIVA NEONATOLOGICA,2016,12
+V,VICENTE LOPEZ,Municipales,Hosp. Munic. Dr. Bernardo Houssay,TERAPIA INTENSIVA,2009,6
+V,VICENTE LOPEZ,Municipales,Hosp. Munic. Dr. Bernardo Houssay,UNIDAD CORONARIA,2009,7
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA,2013,5
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA INFANTIL,2013,8
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA NEONATOLOGICA,2013,8
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal. Gral. Ag. Dr. Arturo Oñativia,TERAPIA INTENSIVA,2013,9
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal. Gral. Ag. Dr. Arturo Oñativia,TERAPIA INTENSIVA NEONATOLOGICA,2013,6
+VI,AVELLANEDA,Municipales,Hosp. Munic. Dr. Eduardo Wilde,TERAPIA INTENSIVA,2013,6
+VI,AVELLANEDA,Provinciales,Hosp. Subz. Mat. Infantil Ana Goittia,TERAPIA INTENSIVA NEONATOLOGICA,2013,5
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Pedro Fiorito,TERAPIA INTENSIVA,2013,12
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Pedro Fiorito,UNIDAD CORONARIA,2013,6
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,TERAPIA INTENSIVA,2013,8
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,TERAPIA INTENSIVA NEONATOLOGICA,2013,3
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,UNIDAD CORONARIA,2013,7
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,TERAPIA INTENSIVA INFANTIL,2013,5
+VI,BERAZATEGUI,Provinciales,Hosp. Zonal Gral. de Ag. Evita Pueblo,TERAPIA INTENSIVA,2013,8
+VI,BERAZATEGUI,Provinciales,Hosp. Zonal Gral. de Ag. Evita Pueblo,TERAPIA INTENSIVA NEONATOLOGICA,2013,25
+VI,ESTEBAN ECHEVERRIA,Municipales,Policlínico S. T. Santamarina,TERAPIA INTENSIVA,2013,7
+VI,ESTEBAN ECHEVERRIA,Municipales,Policlínico S. T. Santamarina,TERAPIA INTENSIVA NEONATOLOGICA,2013,7
+VI,EZEIZA,Provinciales,Hospital Interzonal Gral. Agudos Eurnekian,TERAPIA INTENSIVA,2013,8
+VI,EZEIZA,Provinciales,Hospital Interzonal Gral. Agudos Eurnekian,TERAPIA INTENSIVA NEONATOLOGICA,2013,7
+VI,FLORENCIO VARELA,Provinciales,Hosp. Zonal Gral. de Ag. Mi Pueblo,TERAPIA INTENSIVA,2013,7
+VI,FLORENCIO VARELA,Provinciales,Hosp. Zonal Gral. de Ag. Mi Pueblo,TERAPIA INTENSIVA NEONATOLOGICA,2013,24
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,ADMISION PACIENTE CRITICO,2013,11
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,TERAPIA INTENSIVA,2013,16
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,UNIDAD CORONARIA,2013,16
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,TERAPIA INTENSIVA INFANTIL,2013,26
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,TERAPIA INTENSIVA,2013,4
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,UNIDAD CORONARIA,2013,4
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,TERAPIA INTENSIVA NEONATOLOGICA,2013,4
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,TERAPIA INTENSIVA,2013,8
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,UNIDAD CORONARIA,2013,8
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,CUIDADOS INTENSIVOS PEDIATRICOS,2013,5
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,TERAPIA INTENSIVA NEONATOLOGICA,2013,8
+VI,LOMAS DE ZAMORA,Municipales,Hosp. Mat. Infantil Dr. Oscar E. Alende,TERAPIA INTENSIVA INFANTIL,2013,6
+VI,LOMAS DE ZAMORA,Municipales,Hosp. Mat. Infantil Dr. Oscar E. Alende,TERAPIA INTENSIVA NEONATOLOGICA,2013,12
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,TERAPIA INTENSIVA,2013,8
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,UNIDAD CORONARIA,2013,5
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,TERAPIA INTENSIVA NEONATOLOGICA,2013,16
+VI,QUILMES,Municipales,Hosp. Subz. Esp. Mat. Infantil Dr. Eduardo Oller,TERAPIA INTENSIVA NEONATOLOGICA,2013,10
+VI,QUILMES,Provinciales,Hosp. Zonal Gral. de Ag. Dr. I. Iriarte,TERAPIA INTENSIVA,2013,10
+VII,MERLO,Municipales,Hosp. Munic. Eva Perón,TERAPIA INTENSIVA,2009,9
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,TERAPIA INTENSIVA,2009,6
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,UNIDAD CORONARIA,2009,4
+VII,MERLO,Provinciales,Hosp. Zonal Gral. de Ag. Héroes de Malvinas,TERAPIA INTENSIVA NEONATOLOGICA,2009,6
+VII,MORENO,Provinciales,Hosp. Zonal Gral. M.L. De la Vega,TERAPIA INTENSIVA,2016,8
+VII,MORENO,Provinciales,Hosp. Zonal Gral. M.L. De la Vega,TERAPIA INTENSIVA NEONATOLOGICA,2016,23
+VII,MORENO,Provinciales,Hosp. Zonal Gral. M.L. De la Vega,TERAPIA INTENSIVA,2015,9
+VII,MORENO,Provinciales,Hosp. Zonal Gral. M.L. De la Vega,TERAPIA INTENSIVA NEONATOLOGICA,2015,23
+VII,MORENO,Provinciales,Hosp. Zonal Gral. M.L. De la Vega,TERAPIA INTENSIVA,2014,9
+VII,MORENO,Provinciales,Hosp. Zonal Gral. M.L. De la Vega,TERAPIA INTENSIVA NEONATOLOGICA,2014,24
+VII,MORENO,Provinciales,Hosp. Zonal Gral. M.L. De la Vega,TERAPIA INTENSIVA,2013,9
+VII,MORENO,Provinciales,Hosp. Zonal Gral. M.L. De la Vega,TERAPIA INTENSIVA NEONATOLOGICA,2013,23
+VII,MORENO,Provinciales,Hosp. Zonal Gral. M.L. De la Vega,TERAPIA INTENSIVA,2012,10
+VII,MORENO,Provinciales,Hosp. Zonal Gral. M.L. De la Vega,TERAPIA INTENSIVA NEONATOLOGICA,2012,23
+VII,MORENO,Provinciales,Hosp. Zonal Gral. M.L. De la Vega,TERAPIA INTENSIVA,2011,10
+VII,MORENO,Provinciales,Hosp. Zonal Gral. M.L. De la Vega,TERAPIA INTENSIVA NEONATOLOGICA,2011,23
+VII,MORENO,Provinciales,Hosp. Zonal Gral. M.L. De la Vega,TERAPIA INTENSIVA,2010,10
+VII,MORENO,Provinciales,Hosp. Zonal Gral. M.L. De la Vega,TERAPIA INTENSIVA NEONATOLOGICA,2010,23
+VII,MORENO,Provinciales,Hosp. Zonal Gral. M.L. De la Vega,TERAPIA INTENSIVA,2009,9
+VII,MORENO,Provinciales,Hosp. Zonal Gral. M.L. De la Vega,TERAPIA INTENSIVA NEONATOLOGICA,2009,23
+VII,MORON,Municipales,Hosp. Munic. O. B. de Lavignolle,TERAPIA INTENSIVA,2016,8
+VII,MORON,Municipales,Hosp. Munic. O. B. de Lavignolle,TERAPIA INTENSIVA NEONATOLOGICA,2016,9
+VII,MORON,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. L. Güemes,TERAPIA INTENSIVA,2016,11
+VII,MORON,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. L. Güemes,UNIDAD CORONARIA,2016,1
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,CUIDADOS ESPECIALES INFANTILES,2016,10
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA,2016,10
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA INFANTIL,2016,17
+VIII,AYACUCHO,Municipales,Hosp. Local Munic. Dr. Pedro Solanet,TERAPIA INTENSIVA,2013,5
+VIII,BALCARCE,Municipales,Hosp. Subz. Munic. de Balcarce,TERAPIA INTENSIVA,2013,7
+VIII,GRAL ALVARADO,Municipales,Hosp. Munic. Dr. Mariano Cassano,TERAPIA INTENSIVA,2013,4
+VIII,GRAL MADARIAGA,Municipales,Hosp. Munic. Ana R. S. de Martínez Guerrero,TERAPIA INTENSIVA,2013,2
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Esp. Mat. Infantil Don V. Tetamanti,TERAPIA INTENSIVA INFANTIL,2013,8
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Esp. Mat. Infantil Don V. Tetamanti,TERAPIA INTENSIVA NEONATOLOGICA,2013,20
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Gral. de Ag. Dr. O. Alende,TERAPIA INTENSIVA,2013,18
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Gral. de Ag. Dr. O. Alende,UNIDAD CORONARIA,2013,8
+VIII,LA COSTA,Municipales,Hosp. Munic. Carlos F. Macías,CUIDADOS ESPECIALES,2013,1
+VIII,LA COSTA,Municipales,Hosp. Munic. Carlos F. Macías,TERAPIA INTENSIVA,2013,5
+VIII,LA COSTA,Municipales,Unid. Munic. Roberto L. Dios,TERAPIA INTENSIVA,2013,2
+VIII,LOBERIA,Municipales,Hosp. Munic. Gaspar Campos,TERAPIA INTENSIVA,2013,4
+VIII,MAIPU,Municipales,Hosp. Subz. de Maipú,TERAPIA INTENSIVA,2013,4
+VIII,NECOCHEA,Municipales,Hosp. Munic. Dr. Emilio Ferreyra,TERAPIA INTENSIVA,2013,6
+VIII,SAN CAYETANO,Municipales,Hosp. Munic. Alberto Menditeguy,TERAPIA INTENSIVA,2013,4
+VIII,TANDIL,Municipales,Hosp. Munic. Ramón Santamarina,TERAPIA INTENSIVA,2013,6
+VIII,VILLA GESELL,Municipales,Hosp. Munic. de Ag. Dr. Arturo Illia,TERAPIA INTENSIVA,2013,4
+IX,BOLIVAR,Municipales,Hosp. Subz. Gral. Dr. M. A. Capredoni,TERAPIA INTENSIVA,2012,6
+IX,GRAL LA MADRID,Municipales,Hosp. Munic. M. Etchegaray,TERAPIA INTENSIVA,2012,4
+IX,LAPRIDA,Municipales,Hosp. Dr. Pedro S. Sancholuz,TERAPIA INTENSIVA,2012,5
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,TERAPIA INTENSIVA,2012,7
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,UNIDAD CORONARIA,2012,5
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,TERAPIA INTENSIVA INFANTIL,2012,7
+IX,RAUCH,Municipales,Hosp. Munic. Gral. E. Díaz Vélez,TERAPIA INTENSIVA,2012,4
+IX,AZUL,Municipales,Hosp. Munic. Dr. Angel Pintos,CUIDADOS ESPECIALES,2011,15
+IX,AZUL,Municipales,Hosp. Munic. Dr. Angel Pintos,TERAPIA INTENSIVA,2011,6
+IX,BENITO JUAREZ,Municipales,Ente Descent. Hosp. Dr. A. Saintout,TERAPIA INTENSIVA,2011,5
+IX,BOLIVAR,Municipales,Hosp. Subz. Gral. Dr. M. A. Capredoni,TERAPIA INTENSIVA,2011,6
+IX,GRAL LA MADRID,Municipales,Hosp. Munic. M. Etchegaray,TERAPIA INTENSIVA,2011,4
+IX,LAPRIDA,Municipales,Hosp. Dr. Pedro S. Sancholuz,TERAPIA INTENSIVA,2011,5
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,TERAPIA INTENSIVA,2011,7
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,UNIDAD CORONARIA,2011,5
+X,MERCEDES,Provinciales,Hosp. Zonal Gral. de Agudos Blas Dubarry,TERAPIA INTENSIVA,2015,6
+X,MERCEDES,Provinciales,Hosp. Zonal Gral. de Agudos Blas Dubarry(año 20,TERAPIA INTENSIVA,2014,6
+X,MERCEDES,Provinciales,Hosp. Zonal Gral. de Agudos Blas Dubarry,TERAPIA INTENSIVA,2013,6
+X,MERCEDES,Provinciales,Hosp. Zonal Gral. de Agudos Blas Dubarry,TERAPIA INTENSIVA,2012,6
+X,MERCEDES,Provinciales,Hosp. Zonal Gral. de Agudos Blas Dubarry,TERAPIA INTENSIVA,2011,6
+X,MERCEDES,Provinciales,Hosp. Zonal Gral. de Agudos Blas Dubarry,TERAPIA INTENSIVA,2010,6
+X,MERCEDES,Provinciales,Hosp. Zonal Gral. de Agudos Blas Dubarry,TERAPIA INTENSIVA,2009,6
+X,VEINTICINCO DE MAYO,Municipales,Hosp. Subz. Saturnino Unzué,TERAPIA INTENSIVA,2013,8
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. y Crón. San Juan de Dios,UNIDAD CORONARIA,2015,11
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,TERAPIA INTENSIVA,2015,16
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,QUEMADO,2015,10
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,UNIDAD CORONARIA,2015,7
+XI,LA PLATA,Provinciales,Hosp. Zonal Gral. de Ag. San Roque,CUIDADOS INTENSIVOS NEONATOLOGIA,2014,5
+XI,LA PLATA,Provinciales,Hosp. Zonal Gral. de Ag. San Roque,CUIDADOS INTENSIVOS,2014,14
+XI,LA PLATA,Provinciales,Hosp. Interz. Esp. de Ag. y Crón. Dr. A. Korn,TERAPIA INTENSIVA,2014,7
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. Rodolfo Rossi,TERAPIA INTENSIVA,2014,8
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. Rodolfo Rossi,UNIDAD CORONARIA,2014,7
+XI,LA PLATA,Provinciales,Hosp. Zonal Esp. Dr. Noel H. Sbarra,CUIDADOS ESPECIALES INFANTILES,2014,18
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. Esp. en Pediatría Sor María Ludovica,TERAPIA INTENSIVA INFANTIL,2014,27
+XI,LA PLATA,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Ricardo Gutierrez,TERAPIA INTENSIVA,2014,4
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. y Crón. San Juan de Dios,TERAPIA INTENSIVA,2014,7
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. y Crón. San Juan de Dios,UNIDAD CORONARIA,2014,11
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,TERAPIA INTENSIVA,2014,16
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,QUEMADO,2014,8
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,UNIDAD CORONARIA,2014,7
+XI,LA PLATA,Provinciales,Hosp. Zonal Gral. de Ag. San Roque,CUIDADOS INTENSIVOS NEONATOLOGIA,2013,5
+XI,LA PLATA,Provinciales,Hosp. Zonal Gral. de Ag. San Roque,CUIDADOS INTENSIVOS,2013,15
+XI,LA PLATA,Provinciales,Hosp. Interz. Esp. de Ag. y Crón. Dr. A. Korn,TERAPIA INTENSIVA,2013,7
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. Rodolfo Rossi,TERAPIA INTENSIVA,2013,6
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. Rodolfo Rossi,UNIDAD CORONARIA,2013,7
+XI,SAN VICENTE,Municipales,Hosp. Subz. Gral. Dr. R. Carrillo,TERAPIA INTENSIVA,2013,4
+XII,LA MATANZA,Municipales,Hosp. Mat. Infantil Dra. T. L. Germani,CUIDADOS ESPECIALES,2013,2
+XII,LA MATANZA,Municipales,Hosp. Munic. de Niños de San Justo,TERAPIA INTENSIVA INFANTIL,2013,8
+XII,LA MATANZA,Municipales,Policlínico Central San Justo,CUIDADOS ESPECIALES,2013,3
+XII,LA MATANZA,Municipales,Policlínico Central San Justo,CUIDADOS ESPECIALES INFANTILES,2013,6
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,TERAPIA INTENSIVA,2013,8
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,UNIDAD CORONARIA,2013,7
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,TERAPIA INTENSIVA NEONATOLOGICA,2013,13
+XII,LA MATANZA,Provinciales,Hosp. Zonal de Ag. de González Catán Km.32,TERAPIA INTENSIVA,2013,11
+I,CARMEN DE PATAGONES,Municipales,Hosp. Munic. de Agudos Dr. Pedro Ecay,TERAPIA INTENSIVA,2011,4
+I,CORONEL PRINGLES,Municipales,Hosp. Munic. Dr. Cabrera,TERAPIA INTENSIVA,2011,4
+I,CORONEL SUAREZ,Municipales,Hosp. Munic. de Cnel. Suárez,TERAPIA INTENSIVA,2011,4
+I,PUAN,Municipales,Hosp. Munic. Gobernador Ugarte,TERAPIA INTENSIVA,2011,3
+I,SAAVEDRA,Municipales,Hosp. y Maternidad Munic. O. F. Ducos,TERAPIA INTENSIVA,2011,4
+I,TRES ARROYOS,Municipales,Hosp. Ignacio Pirovano,TERAPIA INTENSIVA,2011,5
+I,BAHIA BLANCA,Municipales,Hosp. Munic. de Agudos Dr. Leónidas Lucero,TERAPIA INTENSIVA,2010,11
+I,CARMEN DE PATAGONES,Municipales,Hosp. Munic. de Agudos Dr. Pedro Ecay,TERAPIA INTENSIVA,2010,4
+I,CORONEL PRINGLES,Municipales,Hosp. Munic. Dr. Cabrera,TERAPIA INTENSIVA,2010,4
+II,CARLOS CASARES,Municipales,Hosp. Munic. Dr. Julio F. Ramos,TERAPIA INTENSIVA,2012,5
+II,NUEVE DE JULIO,Provinciales,Hosp. Zonal Gral. de Ag. Julio de Vedia,TERAPIA INTENSIVA,2012,3
+II,TRENQUE LAUQUEN,Municipales,Hosp. Munic. Dr. Pedro T. Orellana,TERAPIA INTENSIVA,2012,12
+II,TRES LOMAS,Municipales,Hosp. Munic. Dr. Domingo V. Girotti,TERAPIA INTENSIVA,2012,1
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA NEONATOLOGICA,2015,14
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,CUIDADOS ESPECIALES INFANTILES,2014,20
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA,2014,10
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA INFANTIL,2014,5
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA NEONATOLOGICA,2014,14
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,CUIDADOS ESPECIALES INFANTILES,2013,20
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA,2013,10
+IV,SAN ANTONIO DE ARECO,Municipales,Hosp. Munic. Emilio Zerboni,TERAPIA INTENSIVA,2013,4
+IV,SAN PEDRO,Municipales,Hosp. Subz. Gral. Dr. E. Ruffo,TERAPIA INTENSIVA,2013,4
+IV,CARMEN DE ARECO,Provinciales,Hosp. Local Gral. Ntra. Sra. del Carmen,TERAPIA INTENSIVA,2013,4
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,CUIDADOS INTENSIVOS,2013,10
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,TERAPIA INTENSIVA,2013,6
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,TERAPIA INTENSIVA INFANTIL,2013,4
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,UNIDAD CORONARIA,2013,4
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA,2013,12
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA INFANTIL,2013,8
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA NEONATOLOGICA,2013,13
+IV,ARRECIFES,Municipales,Hosp. Munic. Santa Francisca Romana,TERAPIA INTENSIVA,2014,4
+IV,BARADERO,Municipales,Hosp. Subz. Gral. Dr. L. Piñeiro,TERAPIA INTENSIVA,2014,4
+IV,CAPITAN SARMIENTO,Municipales,Hosp. Munic. San Carlos,TERAPIA INTENSIVA,2014,7
+IV,COLON,Municipales,Hosp. Munic. de Colón,TERAPIA INTENSIVA,2014,4
+IV,ROJAS,Municipales,Hosp. Subz. Gral. S. Unzué,TERAPIA INTENSIVA,2014,5
+IV,SALTO,Municipales,"Hosp. Munic. de Salto ""Presidente J. D. Perón""",TERAPIA INTENSIVA,2014,4
+IV,SAN ANDRES DE GILES,Municipales,Hosp. Munic. San Andrés,TERAPIA INTENSIVA,2014,6
+V,VICENTE LOPEZ,Municipales,Hosp. Munic. Dr. Bernardo Houssay,TERAPIA INTENSIVA,2010,7
+V,VICENTE LOPEZ,Municipales,Hosp. Munic. Dr. Bernardo Houssay,UNIDAD CORONARIA,2010,7
+V,VICENTE LOPEZ,Municipales,Hosp. Munic. Dr. Bernardo Houssay,TERAPIA INTENSIVA,2011,7
+V,VICENTE LOPEZ,Municipales,Hosp. Munic. Dr. Bernardo Houssay,UNIDAD CORONARIA,2011,8
+V,VICENTE LOPEZ,Municipales,Hosp. Munic. Dr. Bernardo Houssay,TERAPIA INTENSIVA,2012,6
+V,VICENTE LOPEZ,Municipales,Hosp. Munic. Dr. Bernardo Houssay,UNIDAD CORONARIA,2012,7
+V,VICENTE LOPEZ,Municipales,Hosp. Munic. Dr. Bernardo Houssay,TERAPIA INTENSIVA,2013,6
+V,VICENTE LOPEZ,Municipales,Hosp. Munic. Dr. Bernardo Houssay,UNIDAD CORONARIA,2013,7
+V,VICENTE LOPEZ,Municipales,Hosp. Munic. Dr. Bernardo Houssay,TERAPIA INTENSIVA,2014,6
+V,VICENTE LOPEZ,Municipales,Hosp. Munic. Dr. Bernardo Houssay,UNIDAD CORONARIA,2014,7
+V,VICENTE LOPEZ,Municipales,Hosp. Munic. Dr. Bernardo Houssay,TERAPIA INTENSIVA,2015,7
+V,VICENTE LOPEZ,Municipales,Hosp. Munic. Dr. Bernardo Houssay,UNIDAD CORONARIA,2015,7
+V,VICENTE LOPEZ,Municipales,Hosp. Munic. Dr. Bernardo Houssay,TERAPIA INTENSIVA,2016,7
+V,VICENTE LOPEZ,Municipales,Hosp. Munic. Dr. Bernardo Houssay,UNIDAD CORONARIA,2016,7
+V,VICENTE LOPEZ,Municipales,Instituto Maternidad Santa Rosa,TERAPIA INTENSIVA NEONATOLOGICA,2009,20
+V,VICENTE LOPEZ,Municipales,Instituto Maternidad Santa Rosa,TERAPIA INTENSIVA NEONATOLOGICA,2010,20
+V,VICENTE LOPEZ,Municipales,Instituto Maternidad Santa Rosa,TERAPIA INTENSIVA NEONATOLOGICA,2011,19
+V,VICENTE LOPEZ,Municipales,Instituto Maternidad Santa Rosa,TERAPIA INTENSIVA NEONATOLOGICA,2012,13
+V,VICENTE LOPEZ,Municipales,Instituto Maternidad Santa Rosa,TERAPIA INTENSIVA NEONATOLOGICA,2013,15
+V,VICENTE LOPEZ,Municipales,Instituto Maternidad Santa Rosa,TERAPIA INTENSIVA NEONATOLOGICA,2014,14
+V,VICENTE LOPEZ,Municipales,Instituto Maternidad Santa Rosa,TERAPIA INTENSIVA NEONATOLOGICA,2015,14
+V,VICENTE LOPEZ,Municipales,Instituto Maternidad Santa Rosa,TERAPIA INTENSIVA NEONATOLOGICA,2016,14
+V,ESCOBAR,Provinciales,Hosp. Zonal Gral. de Ag. Dr. E. Erill,TERAPIA INTENSIVA NEONATOLOGICA,2009,7
+V,ESCOBAR,Provinciales,Hosp. Zonal Gral. de Ag. Dr. E. Erill,CUIDADOS INTENSIVOS,2009,5
+V,ESCOBAR,Provinciales,Hosp. Zonal Gral. de Ag. Dr. E. Erill,TERAPIA INTENSIVA NEONATOLOGICA,2010,7
+V,ESCOBAR,Provinciales,Hosp. Zonal Gral. de Ag. Dr. E. Erill,CUIDADOS INTENSIVOS,2010,5
+V,ESCOBAR,Provinciales,Hosp. Zonal Gral. de Ag. Dr. E. Erill,TERAPIA INTENSIVA NEONATOLOGICA,2011,7
+V,ESCOBAR,Provinciales,Hosp. Zonal Gral. de Ag. Dr. E. Erill,CUIDADOS INTENSIVOS,2011,5
+V,ESCOBAR,Provinciales,Hosp. Zonal Gral. de Ag. Dr. E. Erill,TERAPIA INTENSIVA NEONATOLOGICA,2012,7
+V,ESCOBAR,Provinciales,Hosp. Zonal Gral. de Ag. Dr. E. Erill,CUIDADOS INTENSIVOS,2012,5
+V,ESCOBAR,Provinciales,Hosp. Zonal Gral. de Ag. Dr. E. Erill,TERAPIA INTENSIVA NEONATOLOGICA,2013,7
+V,ESCOBAR,Provinciales,Hosp. Zonal Gral. de Ag. Dr. E. Erill,CUIDADOS INTENSIVOS,2013,3
+V,ESCOBAR,Provinciales,Hosp. Zonal Gral. de Ag. Dr. E. Erill,TERAPIA INTENSIVA NEONATOLOGICA,2014,7
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA,2012,5
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA INFANTIL,2012,8
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA NEONATOLOGICA,2012,8
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal. Gral. Ag. Dr. Arturo Oñativia(274),TERAPIA INTENSIVA,2012,8
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal. Gral. Ag. Dr. Arturo Oñativia(274),TERAPIA INTENSIVA NEONATOLOGICA,2012,7
+VI,AVELLANEDA,Municipales,Hosp. Munic. Dr. Eduardo Wilde,TERAPIA INTENSIVA,2012,6
+VI,AVELLANEDA,Provinciales,Hosp. Subz. Mat. Infantil Ana Goittia(31),TERAPIA INTENSIVA NEONATOLOGICA,2012,3
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Pedro Fiorito,TERAPIA INTENSIVA,2012,12
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Pedro Fiorito,UNIDAD CORONARIA,2012,6
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,TERAPIA INTENSIVA,2012,8
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,TERAPIA INTENSIVA NEONATOLOGICA,2012,5
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,UNIDAD CORONARIA,2012,6
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,TERAPIA INTENSIVA INFANTIL,2012,2
+VI,BERAZATEGUI,Provinciales,Hosp. Zonal Gral. de Ag. Evita Pueblo,TERAPIA INTENSIVA,2012,8
+VI,BERAZATEGUI,Provinciales,Hosp. Zonal Gral. de Ag. Evita Pueblo,TERAPIA INTENSIVA NEONATOLOGICA,2012,25
+VI,ESTEBAN ECHEVERRIA,Municipales,Policlínico S. T. Santamarina,TERAPIA INTENSIVA,2012,7
+VI,ESTEBAN ECHEVERRIA,Municipales,Policlínico S. T. Santamarina,TERAPIA INTENSIVA NEONATOLOGICA,2012,6
+VI,EZEIZA,Provinciales,Hospital Interzonal Gral. Agudos Eurnekian,TERAPIA INTENSIVA,2012,12
+VI,EZEIZA,Provinciales,Hospital Interzonal Gral. Agudos Eurnekian,TERAPIA INTENSIVA NEONATOLOGICA,2012,10
+VI,FLORENCIO VARELA,Provinciales,Hosp. Zonal Gral. de Ag. Mi Pueblo,TERAPIA INTENSIVA,2012,6
+VI,FLORENCIO VARELA,Provinciales,Hosp. Zonal Gral. de Ag. Mi Pueblo,TERAPIA INTENSIVA NEONATOLOGICA,2012,24
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,ADMISION PACIENTE CRITICO,2012,9
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,TERAPIA INTENSIVA,2012,16
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,TERAPIA INTENSIVA INFANTIL,2012,21
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,UNIDAD CORONARIA,2012,16
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,TERAPIA INTENSIVA,2012,4
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,UNIDAD CORONARIA,2012,4
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,TERAPIA INTENSIVA NEONATOLOGICA,2012,4
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,TERAPIA INTENSIVA,2012,8
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,UNIDAD CORONARIA,2012,8
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,CUIDADOS INTENSIVOS PEDIATRICOS,2012,4
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,TERAPIA INTENSIVA NEONATOLOGICA,2012,8
+VI,LOMAS DE ZAMORA,Municipales,Hosp. Mat. Infantil Dr. Oscar E. Alende,TERAPIA INTENSIVA INFANTIL,2012,6
+VI,LOMAS DE ZAMORA,Municipales,Hosp. Mat. Infantil Dr. Oscar E. Alende,TERAPIA INTENSIVA NEONATOLOGICA,2012,12
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,TERAPIA INTENSIVA,2012,8
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,UNIDAD CORONARIA,2012,5
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,TERAPIA INTENSIVA NEONATOLOGICA,2012,16
+VI,QUILMES,Municipales,Hosp. Subz. Esp. Mat. Infantil Dr. Eduardo Oller,TERAPIA INTENSIVA NEONATOLOGICA,2012,10
+VI,QUILMES,Provinciales,Hosp. Zonal Gral. de Ag. Dr. I. Iriarte,TERAPIA INTENSIVA,2012,10
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA NEONATOLOGICA,2016,41
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,UNIDAD CORONARIA,2016,11
+VII,MORON,Municipales,Hosp. Munic. O. B. de Lavignolle,TERAPIA INTENSIVA,2015,7
+VII,MORON,Municipales,Hosp. Munic. O. B. de Lavignolle,TERAPIA INTENSIVA NEONATOLOGICA,2015,10
+VII,MORON,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. L. Güemes,TERAPIA INTENSIVA,2015,11
+VII,MORON,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. L. Güemes,UNIDAD CORONARIA,2015,1
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,CUIDADOS ESPECIALES INFANTILES,2015,9
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA,2015,10
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA INFANTIL,2015,20
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA NEONATOLOGICA,2015,42
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,UNIDAD CORONARIA,2015,10
+VII,MORON,Municipales,Hosp. Munic. O. B. de Lavignolle,TERAPIA INTENSIVA,2014,6
+VII,MORON,Municipales,Hosp. Munic. O. B. de Lavignolle,TERAPIA INTENSIVA NEONATOLOGICA,2014,9
+VII,MORON,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. L. Güemes,TERAPIA INTENSIVA,2014,12
+VII,MORON,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. L. Güemes,UNIDAD CORONARIA,2014,1
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,CUIDADOS ESPECIALES INFANTILES,2014,10
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA,2014,10
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA INFANTIL,2014,20
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA NEONATOLOGICA,2014,44
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,UNIDAD CORONARIA,2014,9
+VII,MORON,Municipales,Hosp. Munic. O. B. de Lavignolle,TERAPIA INTENSIVA,2013,6
+VII,MORON,Municipales,Hosp. Munic. O. B. de Lavignolle,TERAPIA INTENSIVA NEONATOLOGICA,2013,9
+VII,MORON,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. L. Güemes,TERAPIA INTENSIVA,2013,10
+VII,MORON,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. L. Güemes,UNIDAD CORONARIA,2013,1
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,CUIDADOS ESPECIALES INFANTILES,2013,11
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA,2013,10
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA INFANTIL,2013,17
+VIII,AYACUCHO,Municipales,Hosp. Local Munic. Dr. Pedro Solanet,TERAPIA INTENSIVA,2012,5
+VIII,BALCARCE,Municipales,Hosp. Subz. Munic. de Balcarce,TERAPIA INTENSIVA,2012,7
+VIII,GRAL ALVARADO,Municipales,Hosp. Munic. Dr. Mariano Cassano,TERAPIA INTENSIVA,2012,4
+VIII,GRAL MADARIAGA,Municipales,Hosp. Munic. Ana R. S. de Martínez Guerrero,TERAPIA INTENSIVA,2012,2
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Esp. Mat. Infantil Don V. Tetamanti,TERAPIA INTENSIVA INFANTIL,2012,8
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Esp. Mat. Infantil Don V. Tetamanti,TERAPIA INTENSIVA NEONATOLOGICA,2012,16
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Gral. de Ag. Dr. O. Alende,TERAPIA INTENSIVA,2012,18
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Gral. de Ag. Dr. O. Alende,UNIDAD CORONARIA,2012,9
+VIII,LA COSTA,Municipales,Hosp. Munic. Carlos F. Macías,CUIDADOS ESPECIALES,2012,2
+VIII,LA COSTA,Municipales,Hosp. Munic. Carlos F. Macías,TERAPIA INTENSIVA,2012,5
+VIII,LA COSTA,Municipales,Unid. Munic. Roberto L. Dios,TERAPIA INTENSIVA,2012,2
+VIII,LOBERIA,Municipales,Hosp. Munic. Gaspar Campos,TERAPIA INTENSIVA,2012,4
+VIII,MAIPU,Municipales,Hosp. Subz. de Maipú,TERAPIA INTENSIVA,2012,4
+VIII,NECOCHEA,Municipales,Hosp. Munic. Dr. Emilio Ferreyra,TERAPIA INTENSIVA,2012,6
+VIII,SAN CAYETANO,Municipales,Hosp. Munic. Alberto Menditeguy,TERAPIA INTENSIVA,2012,4
+VIII,TANDIL,Municipales,Hosp. Munic. Ramón Santamarina,TERAPIA INTENSIVA,2012,6
+VIII,VILLA GESELL,Municipales,Hosp. Munic. de Ag. Dr. Arturo Illia,TERAPIA INTENSIVA,2012,4
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,TERAPIA INTENSIVA INFANTIL,2011,7
+IX,RAUCH,Municipales,Hosp. Munic. Gral. E. Díaz Vélez,TERAPIA INTENSIVA,2011,4
+IX,AZUL,Municipales,Hosp. Munic. Dr. Angel Pintos,CUIDADOS ESPECIALES,2010,15
+IX,AZUL,Municipales,Hosp. Munic. Dr. Angel Pintos,TERAPIA INTENSIVA,2010,6
+IX,BENITO JUAREZ,Municipales,Ente Descent. Hosp. Dr. A. Saintout,TERAPIA INTENSIVA,2010,5
+IX,BOLIVAR,Municipales,Hosp. Subz. Gral. Dr. M. A. Capredoni,TERAPIA INTENSIVA,2010,6
+IX,GRAL LA MADRID,Municipales,Hosp. Munic. M. Etchegaray,TERAPIA INTENSIVA,2010,4
+IX,LAPRIDA,Municipales,Hosp. Dr. Pedro S. Sancholuz,TERAPIA INTENSIVA,2010,5
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,TERAPIA INTENSIVA,2010,7
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,UNIDAD CORONARIA,2010,5
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,TERAPIA INTENSIVA INFANTIL,2010,7
+IX,RAUCH,Municipales,Hosp. Munic. Gral. E. Díaz Vélez,TERAPIA INTENSIVA,2010,4
+IX,AZUL,Municipales,Hosp. Munic. Dr. Angel Pintos,TERAPIA INTENSIVA,2009,6
+IX,BENITO JUAREZ,Municipales,Ente Descent. Hosp. Dr. A. Saintout,TERAPIA INTENSIVA,2009,5
+IX,BOLIVAR,Municipales,Hosp. Subz. Gral. Dr. M. A. Capredoni,TERAPIA INTENSIVA,2009,6
+X,NAVARRO,Municipales,Hosp. Munic. San Antonio de Padua,CUIDADOS ESPECIALES,2016,4
+X,NAVARRO,Municipales,Hosp. Munic. San Antonio de Padua,TERAPIA INTENSIVA,2016,4
+X,NAVARRO,Municipales,Hosp. Munic. San Antonio de Padua,CUIDADOS ESPECIALES,2015,4
+X,NAVARRO,Municipales,Hosp. Munic. San Antonio de Padua,CUIDADOS ESPECIALES,2014,4
+X,NAVARRO,Municipales,Hosp. Munic. San Antonio de Padua,CUIDADOS ESPECIALES,2013,4
+X,ROQUE PEREZ,Municipales,Hosp. Munic.Dr. R. Carrillo,CUIDADOS ESPECIALES,2016,2
+X,VEINTICINCO DE MAYO,Municipales,Hosp. Subz. Saturnino Unzué,TERAPIA INTENSIVA,2012,8
+XI,LA PLATA,Provinciales,Hosp. Zonal Esp. Dr. Noel H. Sbarra,CUIDADOS ESPECIALES INFANTILES,2013,18
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. Esp. en Pediatría Sor María Ludovica,TERAPIA INTENSIVA INFANTIL,2013,29
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. y Crón. San Juan de Dios,TERAPIA INTENSIVA,2013,6
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. y Crón. San Juan de Dios,UNIDAD CORONARIA,2013,11
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,TERAPIA INTENSIVA,2013,14
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,QUEMADO,2013,8
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,UNIDAD CORONARIA,2013,7
+XI,LA PLATA,Provinciales,Hosp. Zonal Gral. de Ag. San Roque,CUIDADOS INTENSIVOS NEONATOLOGIA,2012,3
+XI,LA PLATA,Provinciales,Hosp. Zonal Gral. de Ag. San Roque,CUIDADOS INTENSIVOS,2012,13
+XI,LA PLATA,Provinciales,Hosp. Interz. Esp. de Ag. y Crón. Dr. A. Korn,TERAPIA INTENSIVA,2012,7
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. Rodolfo Rossi,TERAPIA INTENSIVA,2012,5
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. Rodolfo Rossi,UNIDAD CORONARIA,2012,6
+XI,LA PLATA,Provinciales,Hosp. Zonal Esp. Dr. Noel H. Sbarra,CUIDADOS ESPECIALES INFANTILES,2012,18
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. Esp. en Pediatría Sor María Ludovica,TERAPIA INTENSIVA INFANTIL,2012,28
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. Esp. en Pediatría Sor María Ludovica,QUEMADOS INFANTIL,2012,1
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. y Crón. San Juan de Dios,TERAPIA INTENSIVA,2012,6
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. y Crón. San Juan de Dios,UNIDAD CORONARIA,2012,11
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,TERAPIA INTENSIVA,2012,14
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,QUEMADO,2012,10
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,UNIDAD CORONARIA,2012,7
+XI,LA PLATA,Provinciales,Hosp. Zonal Gral. de Ag. San Roque,CUIDADOS INTENSIVOS,2011,12
+XI,LA PLATA,Provinciales,Hosp. Interz. Esp. de Ag. y Crón. Dr. A. Korn,TERAPIA INTENSIVA,2011,7
+XI,SAN VICENTE,Municipales,Hosp. Subz. Gral. Dr. R. Carrillo,TERAPIA INTENSIVA,2012,4
+XII,LA MATANZA,Municipales,Hosp. Mat. Infantil Dra. T. L. Germani,CUIDADOS ESPECIALES,2012,2
+XII,LA MATANZA,Municipales,Hosp. Munic. de Niños de San Justo,TERAPIA INTENSIVA INFANTIL,2012,8
+XII,LA MATANZA,Municipales,Policlínico Central San Justo,CUIDADOS ESPECIALES,2012,3
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,TERAPIA INTENSIVA,2012,7
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,UNIDAD CORONARIA,2012,6
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,TERAPIA INTENSIVA NEONATOLOGICA,2012,12
+XII,LA MATANZA,Provinciales,Hosp. Zonal de Ag. de González Catán Km.32,TERAPIA INTENSIVA,2012,12
+I,CORONEL SUAREZ,Municipales,Hosp. Munic. de Cnel. Suárez,TERAPIA INTENSIVA,2010,6
+I,PUAN,Municipales,Hosp. Munic. Gobernador Ugarte,TERAPIA INTENSIVA,2010,4
+I,SAAVEDRA,Municipales,Hosp. y Maternidad Munic. O. F. Ducos,TERAPIA INTENSIVA,2010,4
+I,TRES ARROYOS,Municipales,Hosp. Ignacio Pirovano,TERAPIA INTENSIVA,2010,5
+I,BAHIA BLANCA,Municipales,Hosp. Munic. de Agudos Dr. Leónidas Lucero,TERAPIA INTENSIVA,2009,9
+I,CARMEN DE PATAGONES,Municipales,Hosp. Munic. de Agudos Dr. Pedro Ecay,TERAPIA INTENSIVA,2009,4
+I,CORONEL PRINGLES,Municipales,Hosp. Munic. Dr. Cabrera,TERAPIA INTENSIVA,2009,4
+I,CORONEL SUAREZ,Municipales,Hosp. Munic. de Cnel. Suárez,TERAPIA INTENSIVA,2009,4
+I,PUAN,Municipales,Hosp. Munic. Gobernador Ugarte,TERAPIA INTENSIVA,2009,4
+II,CARLOS CASARES,Municipales,Hosp. Munic. Dr. Julio F. Ramos,TERAPIA INTENSIVA,2011,5
+II,NUEVE DE JULIO,Provinciales,Hosp. Zonal Gral. de Ag. Julio de Vedia,TERAPIA INTENSIVA,2011,3
+II,TRENQUE LAUQUEN,Municipales,Hosp. Munic. Dr. Pedro T. Orellana,TERAPIA INTENSIVA,2011,12
+II,TRES LOMAS,Municipales,Hosp. Munic. Dr. Domingo V. Girotti,TERAPIA INTENSIVA,2011,1
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA INFANTIL,2013,5
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA NEONATOLOGICA,2013,14
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,CUIDADOS ESPECIALES INFANTILES,2012,20
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA,2012,8
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA INFANTIL,2012,5
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA NEONATOLOGICA,2012,13
+IV,SAN ANDRES DE GILES,Municipales,Hosp. Munic. San Andrés,UNIDAD CORONARIA,2014,5
+IV,SAN ANTONIO DE ARECO,Municipales,Hosp. Munic. Emilio Zerboni,TERAPIA INTENSIVA,2014,4
+IV,SAN PEDRO,Municipales,Hosp. Subz. Gral. Dr. E. Ruffo,TERAPIA INTENSIVA,2014,4
+IV,CARMEN DE ARECO,Provinciales,Hosp. Local Gral. Ntra. Sra. del Carmen,TERAPIA INTENSIVA,2014,4
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,CUIDADOS INTENSIVOS,2014,10
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,TERAPIA INTENSIVA,2014,6
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,TERAPIA INTENSIVA INFANTIL,2014,4
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,UNIDAD CORONARIA,2014,4
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA,2014,12
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA INFANTIL,2014,8
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA NEONATOLOGICA,2014,13
+IV,ARRECIFES,Municipales,Hosp. Munic. Santa Francisca Romana,TERAPIA INTENSIVA,2015,4
+IV,BARADERO,Municipales,Hosp. Subz. Gral. Dr. L. Piñeiro,TERAPIA INTENSIVA,2015,4
+IV,CAPITAN SARMIENTO,Municipales,Hosp. Munic. San Carlos,TERAPIA INTENSIVA,2015,7
+IV,COLON,Municipales,Hosp. Munic. de Colón,TERAPIA INTENSIVA,2015,4
+IV,ROJAS,Municipales,Hosp. Subz. Gral. S. Unzué,TERAPIA INTENSIVA,2015,5
+V,ESCOBAR,Provinciales,Hosp. Zonal Gral. de Ag. Dr. E. Erill,CUIDADOS INTENSIVOS,2014,5
+V,ESCOBAR,Provinciales,Hosp. Zonal Gral. de Ag. Dr. E. Erill,TERAPIA INTENSIVA NEONATOLOGICA,2015,8
+V,ESCOBAR,Provinciales,Hosp. Zonal Gral. de Ag. Dr. E. Erill,CUIDADOS INTENSIVOS,2015,6
+V,ESCOBAR,Provinciales,Hosp. Zonal Gral. de Ag. Dr. E. Erill,TERAPIA INTENSIVA NEONATOLOGICA,2016,7
+V,ESCOBAR,Provinciales,Hosp. Zonal Gral. de Ag. Dr. E. Erill,CUIDADOS INTENSIVOS,2016,5
+V,ZARATE,Provinciales,Hosp. Zonal Gral. de Ag. Virgen del Carmen,TERAPIA INTENSIVA,2016,6
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA,2009,10
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA INFANTIL,2009,12
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA NEONATOLOGICA,2009,8
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,UNIDAD CORONARIA,2009,10
+V,GRAL SAN MARTIN,Provinciales,Hosp. Zonal Gral. de Ag. Gral. M. Belgrano,TERAPIA INTENSIVA,2009,4
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA,2010,10
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA INFANTIL,2010,11
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA NEONATOLOGICA,2010,9
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,UNIDAD CORONARIA,2010,10
+V,GRAL SAN MARTIN,Provinciales,Hosp. Zonal Gral. de Ag. Gral. M. Belgrano,TERAPIA INTENSIVA,2010,4
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA,2011,10
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA INFANTIL,2011,11
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA NEONATOLOGICA,2011,11
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,UNIDAD CORONARIA,2011,10
+V,GRAL SAN MARTIN,Provinciales,Hosp. Zonal Gral. de Ag. Gral. M. Belgrano,TERAPIA INTENSIVA,2011,4
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA,2012,10
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA INFANTIL,2012,11
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA NEONATOLOGICA,2012,10
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,UNIDAD CORONARIA,2012,10
+V,GRAL SAN MARTIN,Provinciales,Hosp. Zonal Gral. de Ag. Gral. M. Belgrano,TERAPIA INTENSIVA,2012,7
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA,2013,10
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA INFANTIL,2013,10
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA NEONATOLOGICA,2013,10
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,UNIDAD CORONARIA,2013,10
+V,GRAL SAN MARTIN,Provinciales,Hosp. Zonal Gral. de Ag. Gral. M. Belgrano,TERAPIA INTENSIVA,2013,8
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA,2014,10
+V,ZARATE,Provinciales,Hosp. Zonal Gral. de Ag. Virgen del Carmen,TERAPIA INTENSIVA,2015,7
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA INFANTIL,2014,10
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA,2011,5
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA INFANTIL,2011,8
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA NEONATOLOGICA,2011,8
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal. Gral. Ag. Dr. Arturo Oñativia,TERAPIA INTENSIVA,2011,8
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal. Gral. Ag. Dr. Arturo Oñativia,TERAPIA INTENSIVA NEONATOLOGICA,2011,8
+VI,AVELLANEDA,Municipales,Hosp. Munic. Dr. Eduardo Wilde,TERAPIA INTENSIVA,2011,6
+VI,AVELLANEDA,Provinciales,Hosp. Subz. Mat. Infantil Ana Goittia,TERAPIA INTENSIVA NEONATOLOGICA,2011,5
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Pedro Fiorito,TERAPIA INTENSIVA,2011,12
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Pedro Fiorito,UNIDAD CORONARIA,2011,6
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Pedro Fiorito,CUIDADOS INTENSIVOS,2011,1
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,TERAPIA INTENSIVA,2011,8
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,TERAPIA INTENSIVA NEONATOLOGICA,2011,4
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,UNIDAD CORONARIA,2011,6
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,TERAPIA INTENSIVA INFANTIL,2011,4
+VI,BERAZATEGUI,Provinciales,Hosp. Zonal Gral. de Ag. Evita Pueblo,TERAPIA INTENSIVA,2011,8
+VI,BERAZATEGUI,Provinciales,Hosp. Zonal Gral. de Ag. Evita Pueblo,TERAPIA INTENSIVA NEONATOLOGICA,2011,25
+VI,ESTEBAN ECHEVERRIA,Municipales,Policlínico S. T. Santamarina,TERAPIA INTENSIVA,2011,6
+VI,ESTEBAN ECHEVERRIA,Municipales,Policlínico S. T. Santamarina,TERAPIA INTENSIVA NEONATOLOGICA,2011,7
+VI,EZEIZA,Provinciales,Hospital Interzonal Gral. Agudos Eurnekian,TERAPIA INTENSIVA,2011,12
+VI,EZEIZA,Provinciales,Hospital Interzonal Gral. Agudos Eurnekian,TERAPIA INTENSIVA NEONATOLOGICA,2011,8
+VI,FLORENCIO VARELA,Provinciales,Hosp. Zonal Gral. de Ag. Mi Pueblo,TERAPIA INTENSIVA,2011,6
+VI,FLORENCIO VARELA,Provinciales,Hosp. Zonal Gral. de Ag. Mi Pueblo,TERAPIA INTENSIVA NEONATOLOGICA,2011,24
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,ADMISION PACIENTE CRITICO,2011,9
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,TERAPIA INTENSIVA,2011,16
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,TERAPIA INTENSIVA INFANTIL,2011,16
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,UNIDAD CORONARIA,2011,16
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,TERAPIA INTENSIVA,2011,4
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,UNIDAD CORONARIA,2011,4
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,TERAPIA INTENSIVA NEONATOLOGICA,2011,4
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,TERAPIA INTENSIVA,2011,8
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,UNIDAD CORONARIA,2011,8
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,CUIDADOS INTENSIVOS PEDIATRICOS,2011,4
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,TERAPIA INTENSIVA NEONATOLOGICA,2011,8
+VI,LOMAS DE ZAMORA,Municipales,Hosp. Mat. Infantil Dr. Oscar E. Alende,TERAPIA INTENSIVA INFANTIL,2011,5
+VI,LOMAS DE ZAMORA,Municipales,Hosp. Mat. Infantil Dr. Oscar E. Alende,TERAPIA INTENSIVA NEONATOLOGICA,2011,6
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,TERAPIA INTENSIVA,2011,8
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,UNIDAD CORONARIA,2011,5
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,TERAPIA INTENSIVA NEONATOLOGICA,2011,16
+VI,QUILMES,Municipales,Hosp. Subz. Esp. Mat. Infantil Dr. Eduardo Oller,TERAPIA INTENSIVA NEONATOLOGICA,2011,10
+VI,QUILMES,Provinciales,Hosp. Zonal Gral. de Ag. Dr. I. Iriarte,TERAPIA INTENSIVA,2011,10
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA NEONATOLOGICA,2013,46
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,UNIDAD CORONARIA,2013,9
+VII,MORON,Municipales,Hosp. Munic. O. B. de Lavignolle,TERAPIA INTENSIVA,2012,6
+VII,MORON,Municipales,Hosp. Munic. O. B. de Lavignolle,TERAPIA INTENSIVA NEONATOLOGICA,2012,9
+VII,MORON,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. L. Güemes,TERAPIA INTENSIVA,2012,11
+VII,MORON,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. L. Güemes,UNIDAD CORONARIA,2012,1
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,CUIDADOS ESPECIALES INFANTILES,2012,12
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA,2012,10
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA INFANTIL,2012,12
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA NEONATOLOGICA,2012,44
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,UNIDAD CORONARIA,2012,8
+VII,MORON,Municipales,Hosp. Munic. O. B. de Lavignolle,TERAPIA INTENSIVA,2011,6
+VII,MORON,Municipales,Hosp. Munic. O. B. de Lavignolle,TERAPIA INTENSIVA NEONATOLOGICA,2011,9
+VII,MORON,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. L. Güemes,TERAPIA INTENSIVA,2011,10
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,CUIDADOS ESPECIALES INFANTILES,2011,11
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA,2011,11
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA INFANTIL,2011,19
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA NEONATOLOGICA,2011,36
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,UNIDAD CORONARIA,2011,10
+VII,MORON,Municipales,Hosp. Munic. O. B. de Lavignolle,TERAPIA INTENSIVA,2010,6
+VII,MORON,Municipales,Hosp. Munic. O. B. de Lavignolle,TERAPIA INTENSIVA NEONATOLOGICA,2010,9
+VII,MORON,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. L. Güemes,TERAPIA INTENSIVA,2010,9
+VII,MORON,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. L. Güemes,UNIDAD CORONARIA,2010,1
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,CUIDADOS ESPECIALES INFANTILES,2010,9
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA,2010,10
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA INFANTIL,2010,16
+VIII,AYACUCHO,Municipales,Hosp. Local Munic. Dr. Pedro Solanet,TERAPIA INTENSIVA,2011,5
+VIII,BALCARCE,Municipales,Hosp. Subz. Munic. de Balcarce,TERAPIA INTENSIVA,2011,7
+VIII,GRAL ALVARADO,Municipales,Hosp. Munic. Dr. Mariano Cassano,TERAPIA INTENSIVA,2011,4
+VIII,GRAL MADARIAGA,Municipales,Hosp. Munic. Ana R. S. de Martínez Guerrero,TERAPIA INTENSIVA,2011,2
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Esp. Mat. Infantil Don V. Tetamanti,TERAPIA INTENSIVA INFANTIL,2011,8
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Esp. Mat. Infantil Don V. Tetamanti,TERAPIA INTENSIVA NEONATOLOGICA,2011,15
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Gral. de Ag. Dr. O. Alende,TERAPIA INTENSIVA,2011,19
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Gral. de Ag. Dr. O. Alende,UNIDAD CORONARIA,2011,8
+VIII,LA COSTA,Municipales,Hosp. Munic. Carlos F. Macías,CUIDADOS ESPECIALES,2011,2
+VIII,LA COSTA,Municipales,Hosp. Munic. Carlos F. Macías,TERAPIA INTENSIVA,2011,5
+VIII,LA COSTA,Municipales,Unid. Munic. Roberto L. Dios,TERAPIA INTENSIVA,2011,2
+VIII,LOBERIA,Municipales,Hosp. Munic. Gaspar Campos,TERAPIA INTENSIVA,2011,4
+VIII,MAIPU,Municipales,Hosp. Subz. de Maipú,TERAPIA INTENSIVA,2011,4
+VIII,NECOCHEA,Municipales,Hosp. Munic. Dr. Emilio Ferreyra,TERAPIA INTENSIVA,2011,6
+VIII,SAN CAYETANO,Municipales,Hosp. Munic. Alberto Menditeguy,TERAPIA INTENSIVA,2011,4
+VIII,TANDIL,Municipales,Hosp. Munic. Ramón Santamarina,TERAPIA INTENSIVA,2011,6
+VIII,VILLA GESELL,Municipales,Hosp. Munic. de Ag. Dr. Arturo Illia,TERAPIA INTENSIVA,2011,4
+IX,GRAL LA MADRID,Municipales,Hosp. Munic. M. Etchegaray,TERAPIA INTENSIVA,2009,4
+IX,LAPRIDA,Municipales,Hosp. Dr. Pedro S. Sancholuz,TERAPIA INTENSIVA,2009,5
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,TERAPIA INTENSIVA,2009,7
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,TERAPIA INTENSIVA INFANTIL,2009,7
+IX,OLAVARRIA,Municipales,Hosp. Zonal Munic. Dr. Héctor Cura,UNIDAD CORONARIA,2009,5
+IX,RAUCH,Municipales,Hosp. Munic. Gral. E. Díaz Vélez,TERAPIA INTENSIVA,2009,4
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,CUIDADOS ESPECIALES INFANTILES,2016,7
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,TERAPIA INTENSIVA INFANTIL,2016,5
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,TERAPIA INTENSIVA NEONATOLOGICA,2016,6
+IX,LAS FLORES,Provinciales,Hosp. Zonal Gral. de Las Flores,TERAPIA INTENSIVA,2016,5
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,CUIDADOS ESPECIALES INFANTILES,2015,7
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,TERAPIA INTENSIVA INFANTIL,2015,5
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,TERAPIA INTENSIVA NEONATOLOGICA,2015,6
+IX,LAS FLORES,Provinciales,Hosp. Zonal Gral. de Las Flores,TERAPIA INTENSIVA,2015,5
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,CUIDADOS ESPECIALES INFANTILES,2014,7
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,TERAPIA INTENSIVA INFANTIL,2014,5
+X,ROQUE PEREZ,Municipales,Hosp. Munic.Dr. R. Carrillo,CUIDADOS ESPECIALES,2015,2
+X,ROQUE PEREZ,Municipales,Hosp. Munic.Dr. R. Carrillo,CUIDADOS ESPECIALES,2014,2
+X,ROQUE PEREZ,Municipales,Hosp. Munic.Dr. R. Carrillo,CUIDADOS ESPECIALES,2013,2
+X,ROQUE PEREZ,Municipales,Hosp. Munic.Dr. R. Carrillo,CUIDADOS ESPECIALES,2012,2
+X,ROQUE PEREZ,Municipales,Hosp. Munic.Dr. R. Carrillo,CUIDADOS ESPECIALES,2011,2
+X,ROQUE PEREZ,Municipales,Hosp. Munic.Dr. R. Carrillo,CUIDADOS ESPECIALES,2010,2
+X,VEINTICINCO DE MAYO,Municipales,Hosp. Subz. Saturnino Unzué,TERAPIA INTENSIVA,2011,8
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. Rodolfo Rossi,TERAPIA INTENSIVA,2011,6
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. Rodolfo Rossi,UNIDAD CORONARIA,2011,7
+XI,LA PLATA,Provinciales,Hosp. Zonal Esp. Dr. Noel H. Sbarra,CUIDADOS ESPECIALES INFANTILES,2011,18
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. Esp. en Pediatría Sor María Ludovica,TERAPIA INTENSIVA INFANTIL,2011,24
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. Esp. en Pediatría Sor María Ludovica,QUEMADOS INFANTIL,2011,3
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. y Crón. San Juan de Dios,TERAPIA INTENSIVA,2011,6
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. y Crón. San Juan de Dios,UNIDAD CORONARIA,2011,11
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,TERAPIA INTENSIVA,2011,13
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,QUEMADO,2011,10
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,UNIDAD CORONARIA,2011,7
+XI,LA PLATA,Provinciales,Hosp. Zonal Gral. de Ag. San Roque,UNIDAD DE CUIDADOS INT. POLIV.,2010,12
+XI,LA PLATA,Provinciales,Hosp. Interz. Esp. de Ag. y Crón. Dr. A. Korn,TERAPIA INTENSIVA,2010,6
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. Rodolfo Rossi,TERAPIA INTENSIVA,2010,6
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. Rodolfo Rossi,UNIDAD CORONARIA,2010,7
+XI,LA PLATA,Provinciales,Hosp. Zonal Esp. Dr. Noel H. Sbarra,CUIDADOS ESPECIALES INFANTILES,2010,18
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. Esp. en Pediatría Sor María Ludovica,TERAPIA INTENSIVA INFANTIL,2010,20
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. Esp. en Pediatría Sor María Ludovica,QUEMADOS INFANTIL,2010,3
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. y Crón. San Juan de Dios,TERAPIA INTENSIVA,2010,6
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. y Crón. San Juan de Dios,UNIDAD CORONARIA,2010,11
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,TERAPIA INTENSIVA,2010,13
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,QUEMADO,2010,10
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,UNIDAD CORONARIA,2010,7
+XI,SAN VICENTE,Municipales,Hosp. Subz. Gral. Dr. R. Carrillo,TERAPIA INTENSIVA,2011,4
+XII,LA MATANZA,Municipales,Hosp. Mat. Infantil Dra. T. L. Germani,CUIDADOS ESPECIALES,2011,2
+XII,LA MATANZA,Municipales,Hosp. Munic. de Niños de San Justo,TERAPIA INTENSIVA INFANTIL,2011,7
+XII,LA MATANZA,Municipales,Policlínico Central San Justo,CUIDADOS ESPECIALES,2011,3
+XII,LA MATANZA,Municipales,Policlínico Central San Justo,CUIDADOS ESPECIALES INFANTILES,2011,1
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,TERAPIA INTENSIVA,2011,6
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,UNIDAD CORONARIA,2011,5
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,TERAPIA INTENSIVA NEONATOLOGICA,2011,11
+XII,LA MATANZA,Provinciales,Hosp. Zonal de Ag. de González Catán Km.32,TERAPIA INTENSIVA,2011,11
+I,SAAVEDRA,Municipales,Hosp. y Maternidad Munic. O. F. Ducos,TERAPIA INTENSIVA,2009,4
+I,TRES ARROYOS,Municipales,Hosp. Ignacio Pirovano,TERAPIA INTENSIVA,2009,5
+I,BAHIA BLANCA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. J. Penna,TERAPIA INTENSIVA,2016,15
+I,BAHIA BLANCA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. J. Penna,TERAPIA INTENSIVA INFANTIL,2016,8
+I,BAHIA BLANCA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. J. Penna,TERAPIA INTENSIVA,2015,15
+I,BAHIA BLANCA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. J. Penna,TERAPIA INTENSIVA INFANTIL,2015,8
+I,BAHIA BLANCA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. J. Penna,TERAPIA INTENSIVA,2014,11
+I,BAHIA BLANCA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. J. Penna,TERAPIA INTENSIVA INFANTIL,2014,8
+I,BAHIA BLANCA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. J. Penna,TERAPIA INTENSIVA,2013,10
+II,CARLOS CASARES,Municipales,Hosp. Munic. Dr. Julio F. Ramos,TERAPIA INTENSIVA,2010,5
+II,NUEVE DE JULIO,Provinciales,Hosp. Zonal Gral. de Ag. Julio de Vedia,TERAPIA INTENSIVA,2010,3
+II,TRENQUE LAUQUEN,Municipales,Hosp. Munic. Dr. Pedro T. Orellana,TERAPIA INTENSIVA,2010,12
+II,TRES LOMAS,Municipales,Hosp. Munic. Dr. Domingo V. Girotti,TERAPIA INTENSIVA,2010,1
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,CUIDADOS ESPECIALES INFANTILES,2011,20
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA,2011,8
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA INFANTIL,2011,5
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA NEONATOLOGICA,2011,13
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,CUIDADOS ESPECIALES INFANTILES,2010,20
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA,2010,8
+IV,SALTO,Municipales,"Hosp. Munic. de Salto ""Presidente J. D. Perón""",TERAPIA INTENSIVA,2015,4
+IV,SAN ANDRES DE GILES,Municipales,Hosp. Munic. San Andrés,TERAPIA INTENSIVA,2015,6
+IV,SAN ANDRES DE GILES,Municipales,Hosp. Munic. San Andrés,UNIDAD CORONARIA,2015,5
+IV,SAN ANTONIO DE ARECO,Municipales,Hosp. Munic. Emilio Zerboni,TERAPIA INTENSIVA,2015,4
+IV,SAN PEDRO,Municipales,Hosp. Subz. Gral. Dr. E. Ruffo,TERAPIA INTENSIVA,2015,4
+IV,CARMEN DE ARECO,Provinciales,Hosp. Local Gral. Ntra. Sra. del Carmen,TERAPIA INTENSIVA,2015,4
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,CUIDADOS INTENSIVOS,2015,10
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,TERAPIA INTENSIVA,2015,6
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,TERAPIA INTENSIVA INFANTIL,2015,5
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,UNIDAD CORONARIA,2015,4
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA,2015,12
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA INFANTIL,2015,8
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA NEONATOLOGICA,2015,13
+IV,ARRECIFES,Municipales,Hosp. Munic. Santa Francisca Romana,TERAPIA INTENSIVA,2016,4
+IV,BARADERO,Municipales,Hosp. Subz. Gral. Dr. L. Piñeiro,TERAPIA INTENSIVA,2016,4
+IV,CAPITAN SARMIENTO,Municipales,Hosp. Munic. San Carlos,TERAPIA INTENSIVA,2016,7
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA NEONATOLOGICA,2014,9
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,UNIDAD CORONARIA,2014,10
+V,GRAL SAN MARTIN,Provinciales,Hosp. Zonal Gral. de Ag. Gral. M. Belgrano,TERAPIA INTENSIVA,2014,8
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA,2015,10
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA INFANTIL,2015,10
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA NEONATOLOGICA,2015,9
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,UNIDAD CORONARIA,2015,10
+V,GRAL SAN MARTIN,Provinciales,Hosp. Zonal Gral. de Ag. Gral. M. Belgrano,TERAPIA INTENSIVA,2015,8
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA,2016,9
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA INFANTIL,2016,8
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,TERAPIA INTENSIVA NEONATOLOGICA,2016,12
+V,GRAL SAN MARTIN,Provinciales,Hosp. Interz. Gral. de Ag. Eva Perón,UNIDAD CORONARIA,2016,9
+V,GRAL SAN MARTIN,Provinciales,Hosp. Zonal Gral. de Ag. Gral. M. Belgrano,TERAPIA INTENSIVA,2016,8
+V,JOSE C. PAZ,Provinciales,Hosp. Zonal de Ag. Gob. Domingo Mercante,TERAPIA INTENSIVA,2009,8
+V,JOSE C. PAZ,Provinciales,Hosp. Zonal de Ag. Gob. Domingo Mercante,TERAPIA INTENSIVA,2010,8
+V,JOSE C. PAZ,Provinciales,Hosp. Zonal de Ag. Gob. Domingo Mercante,TERAPIA INTENSIVA,2011,8
+V,JOSE C. PAZ,Provinciales,Hosp. Zonal de Ag. Gob. Domingo Mercante,TERAPIA INTENSIVA,2012,8
+V,JOSE C. PAZ,Provinciales,Hosp. Zonal de Ag. Gob. Domingo Mercante,TERAPIA INTENSIVA,2013,8
+V,JOSE C. PAZ,Provinciales,Hosp. Zonal de Ag. Gob. Domingo Mercante,TERAPIA INTENSIVA,2014,6
+V,JOSE C. PAZ,Provinciales,Hosp. Zonal de Ag. Gob. Domingo Mercante,TERAPIA INTENSIVA,2015,6
+V,JOSE C. PAZ,Provinciales,Hosp. Zonal de Ag. Gob. Domingo Mercante,TERAPIA INTENSIVA,2016,6
+V,ZARATE,Provinciales,Hosp. Zonal Gral. de Ag. Virgen del Carmen,TERAPIA INTENSIVA,2014,7
+V,ZARATE,Provinciales,Hosp. Zonal Gral. de Ag. Virgen del Carmen,TERAPIA INTENSIVA,2013,8
+V,SAN FERNANDO,Provinciales,Hosp. Zonal Gral. de Ag. Petrona V. de Cordero,TERAPIA INTENSIVA,2009,15
+V,SAN FERNANDO,Provinciales,Hosp. Zonal Gral. de Ag. Petrona V. de Cordero,TERAPIA INTENSIVA,2010,13
+V,SAN FERNANDO,Provinciales,Hosp. Zonal Gral. de Ag. Petrona V. de Cordero,TERAPIA INTENSIVA,2011,14
+V,SAN FERNANDO,Provinciales,Hosp. Zonal Gral. de Ag. Petrona V. de Cordero,TERAPIA INTENSIVA INFANTIL,2011,7
+V,SAN FERNANDO,Provinciales,Hosp. Zonal Gral. de Ag. Petrona V. de Cordero,TERAPIA INTENSIVA,2012,13
+V,SAN FERNANDO,Provinciales,Hosp. Zonal Gral. de Ag. Petrona V. de Cordero,TERAPIA INTENSIVA INFANTIL,2012,8
+V,SAN FERNANDO,Provinciales,Hosp. Zonal Gral. de Ag. Petrona V. de Cordero,TERAPIA INTENSIVA,2013,10
+V,SAN FERNANDO,Provinciales,Hosp. Zonal Gral. de Ag. Petrona V. de Cordero,TERAPIA INTENSIVA INFANTIL,2013,7
+V,ZARATE,Provinciales,Hosp. Zonal Gral. de Ag. Virgen del Carmen,TERAPIA INTENSIVA,2012,8
+V,SAN FERNANDO,Provinciales,Hosp. Zonal Gral. de Ag. Petrona V. de Cordero,TERAPIA INTENSIVA,2014,9
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA,2010,5
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA INFANTIL,2010,8
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA NEONATOLOGICA,2010,8
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal. Gral. Ag. Dr. Arturo Oñativia,TERAPIA INTENSIVA,2010,8
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal. Gral. Ag. Dr. Arturo Oñativia,TERAPIA INTENSIVA NEONATOLOGICA,2010,7
+VI,AVELLANEDA,Municipales,Hosp. Munic. Dr. Eduardo Wilde,TERAPIA INTENSIVA,2010,6
+VI,AVELLANEDA,Provinciales,Hosp. Subz. Mat. Infantil Ana Goittia,TERAPIA INTENSIVA NEONATOLOGICA,2010,5
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Pedro Fiorito,TERAPIA INTENSIVA,2010,12
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Pedro Fiorito,UNIDAD CORONARIA,2010,6
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Pedro Fiorito,CUIDADOS INTENSIVOS,2010,12
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,TERAPIA INTENSIVA,2010,10
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,TERAPIA INTENSIVA NEONATOLOGICA,2010,4
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,UNIDAD CORONARIA,2010,6
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,TERAPIA INTENSIVA INFANTIL,2010,4
+VI,BERAZATEGUI,Provinciales,Hosp. Zonal Gral. de Ag. Evita Pueblo,TERAPIA INTENSIVA,2010,8
+VI,BERAZATEGUI,Provinciales,Hosp. Zonal Gral. de Ag. Evita Pueblo,TERAPIA INTENSIVA NEONATOLOGICA,2010,25
+VI,ESTEBAN ECHEVERRIA,Municipales,Policlínico S. T. Santamarina,TERAPIA INTENSIVA,2010,8
+VI,ESTEBAN ECHEVERRIA,Municipales,Policlínico S. T. Santamarina,TERAPIA INTENSIVA NEONATOLOGICA,2010,7
+VI,EZEIZA,Provinciales,Hosp. Zonal Gral. de Ag. Madre Teresa de Calcuta,TERAPIA INTENSIVA,2010,9
+VI,EZEIZA,Provinciales,Hosp. Zonal Gral. de Ag. Madre Teresa de Calcuta,TERAPIA INTENSIVA NEONATOLOGICA,2010,9
+VI,FLORENCIO VARELA,Provinciales,Hosp. Zonal Gral. de Ag. Mi Pueblo,TERAPIA INTENSIVA,2010,6
+VI,FLORENCIO VARELA,Provinciales,Hosp. Zonal Gral. de Ag. Mi Pueblo,TERAPIA INTENSIVA NEONATOLOGICA,2010,20
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,ADMISION PACIENTE CRITICO,2010,9
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,TERAPIA INTENSIVA,2010,16
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,TERAPIA INTENSIVA INFANTIL,2010,16
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,UNIDAD CORONARIA,2010,17
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,TERAPIA INTENSIVA,2010,4
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,UNIDAD CORONARIA,2010,3
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,TERAPIA INTENSIVA NEONATOLOGICA,2010,4
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,TERAPIA INTENSIVA,2010,9
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,UNIDAD CORONARIA,2010,8
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,CUIDADOS INTENSIVOS PEDIATRICOS,2010,4
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,TERAPIA INTENSIVA NEONATOLOGICA,2010,8
+VI,LOMAS DE ZAMORA,Municipales,Hosp. Mat. Infantil Dr. Oscar E. Alende,TERAPIA INTENSIVA INFANTIL,2010,3
+VI,LOMAS DE ZAMORA,Municipales,Hosp. Mat. Infantil Dr. Oscar E. Alende,TERAPIA INTENSIVA NEONATOLOGICA,2010,6
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,TERAPIA INTENSIVA,2010,8
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,UNIDAD CORONARIA,2010,5
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,TERAPIA INTENSIVA NEONATOLOGICA,2010,14
+VI,QUILMES,Municipales,Hosp. Subz. Esp. Mat. Infantil Dr. Eduardo Oller,TERAPIA INTENSIVA NEONATOLOGICA,2010,10
+VI,QUILMES,Provinciales,Hosp. Zonal Gral. de Ag. Dr. I. Iriarte,TERAPIA INTENSIVA,2010,10
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA NEONATOLOGICA,2010,43
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,UNIDAD CORONARIA,2010,9
+VII,MORON,Municipales,Hosp. Munic. O. B. de Lavignolle,TERAPIA INTENSIVA,2009,6
+VII,MORON,Municipales,Hosp. Munic. O. B. de Lavignolle,TERAPIA INTENSIVA NEONATOLOGICA,2009,8
+VII,MORON,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. L. Güemes,TERAPIA INTENSIVA,2009,9
+VII,MORON,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. L. Güemes,UNIDAD CORONARIA,2009,1
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA,2009,10
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA INFANTIL,2009,12
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,TERAPIA INTENSIVA NEONATOLOGICA,2009,41
+VII,MORON,Nacionales,Hosp. Nac. Dr. Posadas,UNIDAD CORONARIA,2009,9
+VI,QUILMES,Provinciales,Hosp. Zonal Gral. de Ag. Dr. I. Iriarte,TERAPIA INTENSIVA NEONATOLOGICA,2016,11
+VI,QUILMES,Provinciales,Hosp. Zonal Gral. de Ag. Dr. I. Iriarte,TERAPIA INTENSIVA NEONATOLOGICA,2015,11
+VI,QUILMES,Provinciales,Hosp. Zonal Gral. de Ag. Dr. I. Iriarte,TERAPIA INTENSIVA NEONATOLOGICA,2014,13
+VI,QUILMES,Provinciales,Hosp. Zonal Gral. de Ag. Dr. I. Iriarte,TERAPIA INTENSIVA NEONATOLOGICA,2013,13
+VI,QUILMES,Provinciales,Hosp. Zonal Gral. de Ag. Dr. I. Iriarte,TERAPIA INTENSIVA NEONATOLOGICA,2012,14
+VI,QUILMES,Provinciales,Hosp. Zonal Gral. de Ag. Dr. I. Iriarte,TERAPIA INTENSIVA NEONATOLOGICA,2011,13
+VI,QUILMES,Provinciales,Hosp. Zonal Gral. de Ag. Dr. I. Iriarte,TERAPIA INTENSIVA NEONATOLOGICA,2010,13
+VI,LOMAS DE ZAMORA,Municipales,Hosp. Mat. Infantil Dr. Oscar E. Alende,TERAPIA INTENSIVA INFANTIL,2009,6
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Ag. Prof. Dr. R. Carrillo,TERAPIA INTENSIVA,2016,8
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Ag. Prof. Dr. R. Carrillo,UNIDAD CORONARIA,2016,6
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. C. A. Bocalandro,TERAPIA INTENSIVA,2016,7
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. C. A. Bocalandro,UNIDAD CORONARIA,2016,4
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Ag. Prof. Dr. R. Carrillo,TERAPIA INTENSIVA,2015,8
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Ag. Prof. Dr. R. Carrillo,UNIDAD CORONARIA,2015,6
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. C. A. Bocalandro,TERAPIA INTENSIVA,2015,7
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. C. A. Bocalandro,UNIDAD CORONARIA,2015,4
+VIII,AYACUCHO,Municipales,Hosp. Local Munic. Dr. Pedro Solanet,TERAPIA INTENSIVA,2010,5
+VIII,BALCARCE,Municipales,Hosp. Subz. Munic. de Balcarce,TERAPIA INTENSIVA,2010,7
+VIII,GRAL ALVARADO,Municipales,Hosp. Munic. Dr. Mariano Cassano,TERAPIA INTENSIVA,2010,4
+VIII,GRAL MADARIAGA,Municipales,Hosp. Munic. Ana R. S. de Martínez Guerrero,TERAPIA INTENSIVA,2010,2
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Esp. Mat. Infantil Don V. Tetamanti,TERAPIA INTENSIVA INFANTIL,2010,8
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Esp. Mat. Infantil Don V. Tetamanti,TERAPIA INTENSIVA NEONATOLOGICA,2010,15
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Gral. de Ag. Dr. O. Alende,TERAPIA INTENSIVA,2010,18
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Gral. de Ag. Dr. O. Alende,UNIDAD CORONARIA,2010,8
+VIII,LA COSTA,Municipales,Hosp. Munic. Carlos F. Macías,CUIDADOS ESPECIALES,2010,2
+VIII,LA COSTA,Municipales,Hosp. Munic. Carlos F. Macías,TERAPIA INTENSIVA,2010,5
+VIII,LA COSTA,Municipales,Unid. Munic. Roberto L. Dios,TERAPIA INTENSIVA,2010,2
+VIII,LOBERIA,Municipales,Hosp. Munic. Gaspar Campos,TERAPIA INTENSIVA,2010,4
+VIII,MAIPU,Municipales,Hosp. Subz. de Maipú,TERAPIA INTENSIVA,2010,4
+VIII,NECOCHEA,Municipales,Hosp. Munic. Dr. Emilio Ferreyra,TERAPIA INTENSIVA,2010,6
+VIII,SAN CAYETANO,Municipales,Hosp. Munic. Alberto Menditeguy,TERAPIA INTENSIVA,2010,4
+VIII,TANDIL,Municipales,Hosp. Munic. Ramón Santamarina,TERAPIA INTENSIVA,2010,6
+VIII,VILLA GESELL,Municipales,Hosp. Munic. de Ag. Dr. Arturo Illia,TERAPIA INTENSIVA,2010,4
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,TERAPIA INTENSIVA NEONATOLOGICA,2014,7
+IX,LAS FLORES,Provinciales,Hosp. Zonal Gral. de Las Flores,CUIDADOS ESPECIALES,2014,3
+IX,LAS FLORES,Provinciales,Hosp. Zonal Gral. de Las Flores,TERAPIA INTENSIVA,2014,5
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,CUIDADOS ESPECIALES INFANTILES,2013,7
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,TERAPIA INTENSIVA INFANTIL,2013,5
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,TERAPIA INTENSIVA NEONATOLOGICA,2013,7
+IX,LAS FLORES,Provinciales,Hosp. Zonal Gral. de Las Flores,CUIDADOS ESPECIALES,2013,3
+IX,LAS FLORES,Provinciales,Hosp. Zonal Gral. de Las Flores,TERAPIA INTENSIVA,2013,5
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,CUIDADOS ESPECIALES INFANTILES,2012,7
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,TERAPIA INTENSIVA INFANTIL,2012,4
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,TERAPIA INTENSIVA NEONATOLOGICA,2012,6
+IX,LAS FLORES,Provinciales,Hosp. Zonal Gral. de Las Flores,CUIDADOS ESPECIALES,2012,3
+IX,LAS FLORES,Provinciales,Hosp. Zonal Gral. de Las Flores,TERAPIA INTENSIVA,2012,5
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,CUIDADOS ESPECIALES INFANTILES,2011,3
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,TERAPIA INTENSIVA INFANTIL,2011,5
+X,ROQUE PEREZ,Municipales,Hosp. Munic.Dr. R. Carrillo,CUIDADOS ESPECIALES,2009,2
+X,SALADILLO,Provinciales,Hosp. Zonal Gral. Dr. A. Posadas,TERAPIA INTENSIVA,2016,4
+X,SALADILLO,Provinciales,Hosp. Zonal Gral. Dr. A. Posadas,TERAPIA INTENSIVA,2015,4
+X,SALADILLO,Provinciales,Hosp. Zonal Gral. Dr. A. Posadas,TERAPIA INTENSIVA,2014,4
+X,SALADILLO,Provinciales,Hosp. Zonal Gral. Dr. A. Posadas,TERAPIA INTENSIVA,2013,4
+X,SALADILLO,Provinciales,Hosp. Zonal Gral. Dr. A. Posadas,TERAPIA INTENSIVA,2012,4
+X,VEINTICINCO DE MAYO,Municipales,Hosp. Subz. Saturnino Unzué,TERAPIA INTENSIVA,2010,8
+XI,LA PLATA,Provinciales,Hosp. Zonal Gral. de Ag. San Roque,TERAPIA INTENSIVA,2009,6
+XI,LA PLATA,Provinciales,Hosp. Zonal Gral. de Ag. San Roque,UNIDAD DE CUIDADOS INT. POLIV.,2009,3
+XI,LA PLATA,Provinciales,Hosp. Zonal Gral. de Ag. San Roque,UNIDAD CORONARIA,2009,3
+XI,LA PLATA,Provinciales,Hosp. Interz. Esp. de Ag. y Crón. Dr. A. Korn,TERAPIA INTENSIVA,2009,6
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. Rodolfo Rossi,TERAPIA INTENSIVA,2009,6
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Prof. Dr. Rodolfo Rossi,UNIDAD CORONARIA,2009,7
+XI,LA PLATA,Provinciales,Hosp. Zonal Esp. Dr. Noel H. Sbarra,CUIDADOS ESPECIALES INFANTILES,2009,18
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. Esp. en Pediatría Sor María Ludovica,TERAPIA INTENSIVA INFANTIL,2009,19
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. Esp. en Pediatría Sor María Ludovica,QUEMADOS INFANTIL,2009,3
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. y Crón. San Juan de Dios,TERAPIA INTENSIVA,2009,6
+XI,LA PLATA,Provinciales,Hosp. Interz. de Ag. y Crón. San Juan de Dios,UNIDAD CORONARIA,2009,10
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,TERAPIA INTENSIVA,2009,11
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,QUEMADO,2009,9
+XI,LA PLATA,Provinciales,Hosp. Interz. Gral. de Ag. Gral. San Martín,UNIDAD CORONARIA,2009,7
+XI,MONTE,Provinciales,Hosp. Zenón Videla Dorna,TERAPIA INTENSIVA,2016,4
+XI,MONTE,Provinciales,Hosp. Zenón Videla Dorna,TERAPIA INTENSIVA,2015,4
+XI,MONTE,Provinciales,Hosp. Zenón Videla Dorna,TERAPIA INTENSIVA,2014,4
+XI,MONTE,Provinciales,Hosp. Zenón Videla Dorna,TERAPIA INTENSIVA,2013,4
+XI,MONTE,Provinciales,Hosp. Zenón Videla Dorna,TERAPIA INTENSIVA,2012,4
+XI,MONTE,Provinciales,Hosp. Zenón Videla Dorna,TERAPIA INTENSIVA,2011,4
+XI,MONTE,Provinciales,Hosp. Zenón Videla Dorna,TERAPIA INTENSIVA,2010,4
+XI,MONTE,Provinciales,Hosp. Zenón Videla Dorna,TERAPIA INTENSIVA,2009,4
+XI,SAN VICENTE,Municipales,Hosp. Subz. Gral. Dr. R. Carrillo,TERAPIA INTENSIVA,2010,4
+XII,LA MATANZA,Municipales,Hosp. Mat. Infantil Dra. T. L. Germani,CUIDADOS ESPECIALES,2010,2
+XII,LA MATANZA,Municipales,Hosp. Munic. de Niños de San Justo,TERAPIA INTENSIVA INFANTIL,2010,6
+XII,LA MATANZA,Municipales,Policlínico Central San Justo,CUIDADOS ESPECIALES,2010,3
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,TERAPIA INTENSIVA,2010,6
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,UNIDAD CORONARIA,2010,5
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,TERAPIA INTENSIVA NEONATOLOGICA,2010,9
+XII,LA MATANZA,Provinciales,Hosp. Zonal de Ag. de González Catán Km.32,TERAPIA INTENSIVA,2010,9
+I,BAHIA BLANCA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. J. Penna,TERAPIA INTENSIVA INFANTIL,2013,8
+I,BAHIA BLANCA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. J. Penna,TERAPIA INTENSIVA,2012,10
+I,BAHIA BLANCA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. J. Penna,TERAPIA INTENSIVA INFANTIL,2012,8
+I,BAHIA BLANCA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. J. Penna,TERAPIA INTENSIVA,2011,8
+I,BAHIA BLANCA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. J. Penna,TERAPIA INTENSIVA INFANTIL,2011,8
+I,BAHIA BLANCA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. J. Penna,TERAPIA INTENSIVA,2010,8
+I,BAHIA BLANCA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. J. Penna,TERAPIA INTENSIVA INFANTIL,2010,7
+I,BAHIA BLANCA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. J. Penna,TERAPIA INTENSIVA,2009,10
+I,BAHIA BLANCA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. J. Penna,TERAPIA INTENSIVA INFANTIL,2009,4
+II,CARLOS CASARES,Municipales,Hosp. Munic. Dr. Julio F. Ramos,TERAPIA INTENSIVA,2009,5
+II,NUEVE DE JULIO,Provinciales,Hosp. Zonal Gral. de Ag. Julio de Vedia,TERAPIA INTENSIVA,2009,3
+II,TRENQUE LAUQUEN,Municipales,Hosp. Munic. Dr. Pedro T. Orellana,TERAPIA INTENSIVA,2009,12
+II,TRES LOMAS,Municipales,Hosp. Munic. Dr. Domingo V. Girotti,TERAPIA INTENSIVA,2009,1
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA INFANTIL,2010,5
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA NEONATOLOGICA,2010,13
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA,2009,8
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA INFANTIL,2009,5
+III,JUNIN,Provinciales,Hosp. Interz. Gral. de Ag. Abraham Piñeyro,TERAPIA INTENSIVA NEONATOLOGICA,2009,13
+IV,COLON,Municipales,Hosp. Munic. de Colón,TERAPIA INTENSIVA,2016,4
+IV,ROJAS,Municipales,Hosp. Subz. Gral. S. Unzué,TERAPIA INTENSIVA,2016,5
+IV,SALTO,Municipales,"Hosp. Munic. de Salto ""Presidente J. D. Perón""",TERAPIA INTENSIVA,2016,4
+IV,SAN ANDRES DE GILES,Municipales,Hosp. Munic. San Andrés,TERAPIA INTENSIVA,2016,6
+IV,SAN ANDRES DE GILES,Municipales,Hosp. Munic. San Andrés,UNIDAD CORONARIA,2016,5
+IV,SAN ANTONIO DE ARECO,Municipales,Hosp. Munic. Emilio Zerboni,TERAPIA INTENSIVA,2016,4
+IV,SAN PEDRO,Municipales,Hosp. Subz. Gral. Dr. E. Ruffo,TERAPIA INTENSIVA,2016,4
+IV,CARMEN DE ARECO,Provinciales,Hosp. Local Gral. Ntra. Sra. del Carmen,TERAPIA INTENSIVA,2016,4
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,CUIDADOS INTENSIVOS,2016,8
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,TERAPIA INTENSIVA,2016,6
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,TERAPIA INTENSIVA INFANTIL,2016,6
+IV,PERGAMINO,Provinciales,Hosp. Interz. Gral. de Ag. San José,UNIDAD CORONARIA,2016,4
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA,2016,12
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA INFANTIL,2016,8
+IV,SAN NICOLAS,Provinciales,Hosp. Interz. Gral. de Ag. San Felipe,TERAPIA INTENSIVA NEONATOLOGICA,2016,13
+V,SAN FERNANDO,Provinciales,Hosp. Zonal Gral. de Ag. Petrona V. de Cordero,TERAPIA INTENSIVA INFANTIL,2014,8
+V,SAN FERNANDO,Provinciales,Hosp. Zonal Gral. de Ag. Petrona V. de Cordero,TERAPIA INTENSIVA,2015,10
+V,SAN FERNANDO,Provinciales,Hosp. Zonal Gral. de Ag. Petrona V. de Cordero,TERAPIA INTENSIVA INFANTIL,2015,8
+V,SAN FERNANDO,Provinciales,Hosp. Zonal Gral. de Ag. Petrona V. de Cordero,TERAPIA INTENSIVA,2016,10
+V,SAN FERNANDO,Provinciales,Hosp. Zonal Gral. de Ag. Petrona V. de Cordero,TERAPIA INTENSIVA INFANTIL,2016,8
+V,ZARATE,Provinciales,Hosp. Zonal Gral. de Ag. Virgen del Carmen,TERAPIA INTENSIVA,2011,8
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,TERAPIA INTENSIVA,2009,8
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,CUIDADOS ESPECIALES INFANTILES,2010,8
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,TERAPIA INTENSIVA,2010,8
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,CUIDADOS ESPECIALES INFANTILES,2011,8
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,TERAPIA INTENSIVA,2011,8
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,CUIDADOS ESPECIALES INFANTILES,2012,8
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,TERAPIA INTENSIVA,2012,8
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,CUIDADOS ESPECIALES INFANTILES,2013,8
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,TERAPIA INTENSIVA,2013,8
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,CUIDADOS ESPECIALES INFANTILES,2014,8
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,TERAPIA INTENSIVA,2014,8
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,CUIDADOS ESPECIALES INFANTILES,2015,8
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,TERAPIA INTENSIVA,2015,8
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,CUIDADOS ESPECIALES INFANTILES,2016,8
+V,TIGRE,Provinciales,Hosp. Zonal Gral. de Ag. M. V. de Martinez,TERAPIA INTENSIVA,2016,8
+V,ZARATE,Provinciales,Hosp. Zonal Gral. de Ag. Virgen del Carmen,TERAPIA INTENSIVA,2010,7
+V,VICENTE LOPEZ,Provinciales,Hosp. Zonal del Tórax Dr. Cetrángolo,TERAPIA INTENSIVA,2009,6
+V,VICENTE LOPEZ,Provinciales,Hosp. Zonal del Tórax Dr. Cetrángolo,TERAPIA INTENSIVA,2010,6
+V,VICENTE LOPEZ,Provinciales,Hosp. Zonal del Tórax Dr. Cetrángolo,TERAPIA INTENSIVA,2011,6
+V,VICENTE LOPEZ,Provinciales,Hosp. Zonal del Tórax Dr. Cetrángolo,TERAPIA INTENSIVA,2012,6
+V,VICENTE LOPEZ,Provinciales,Hosp. Zonal del Tórax Dr. Cetrángolo,TERAPIA INTENSIVA,2013,6
+V,VICENTE LOPEZ,Provinciales,Hosp. Zonal del Tórax Dr. Cetrángolo,TERAPIA INTENSIVA,2014,6
+V,VICENTE LOPEZ,Provinciales,Hosp. Zonal del Tórax Dr. Cetrángolo,TERAPIA INTENSIVA,2015,6
+V,VICENTE LOPEZ,Provinciales,Hosp. Zonal del Tórax Dr. Cetrángolo,TERAPIA INTENSIVA,2016,6
+V,ZARATE,Provinciales,Hosp. Zonal Gral. de Ag. Virgen del Carmen,TERAPIA INTENSIVA,2009,8
+VI,LOMAS DE ZAMORA,Municipales,Hosp. Mat. Infantil Dr. Oscar E. Alende,TERAPIA INTENSIVA NEONATOLOGICA,2009,6
+VI,QUILMES,Municipales,Hosp. Subz. Esp. Mat. Infantil Dr. Eduardo Oller,TERAPIA INTENSIVA NEONATOLOGICA,2009,11
+VI,ESTEBAN ECHEVERRIA,Municipales,Policlínico S. T. Santamarina,TERAPIA INTENSIVA,2009,7
+VI,ESTEBAN ECHEVERRIA,Municipales,Policlínico S. T. Santamarina,TERAPIA INTENSIVA NEONATOLOGICA,2009,6
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,ADMISION PACIENTE CRITICO,2009,7
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,TERAPIA INTENSIVA,2009,13
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,TERAPIA INTENSIVA INFANTIL,2009,12
+VI,FLORENCIO VARELA,Provinciales,Hosp. de Alta Compl. El Cruce,UNIDAD CORONARIA,2009,13
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Pedro Fiorito,CUIDADOS ESPECIALES,2009,10
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Pedro Fiorito,UNIDAD CORONARIA,2009,6
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Pedro Fiorito,CUIDADOS INTENSIVOS,2009,1
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,TERAPIA INTENSIVA,2009,11
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,UNIDAD CORONARIA,2009,8
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,CUIDADOS INTENSIVOS PEDIATRICOS,2009,4
+VI,LANUS,Provinciales,Hosp. Interz. Gral. de Ag. Evita,TERAPIA INTENSIVA NEONATOLOGICA,2009,9
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,TERAPIA INTENSIVA,2009,7
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,UNIDAD CORONARIA,2009,5
+VI,LOMAS DE ZAMORA,Provinciales,Hosp. Interz. Gral. de Ag. Luisa C. de Gandulfo,TERAPIA INTENSIVA NEONATOLOGICA,2009,12
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,TERAPIA INTENSIVA,2009,9
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,TERAPIA INTENSIVA NEONATOLOGICA,2009,4
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,UNIDAD CORONARIA,2009,6
+VI,AVELLANEDA,Provinciales,Hosp. Interz. Gral. de Ag. Pte. Perón,TERAPIA INTENSIVA INFANTIL,2009,4
+VI,AVELLANEDA,Municipales,Hosp. Munic. Dr. Eduardo Wilde,TERAPIA INTENSIVA,2009,6
+VI,AVELLANEDA,Provinciales,Hosp. Subz. Mat. Infantil Ana Goittia,TERAPIA INTENSIVA NEONATOLOGICA,2009,5
+VI,QUILMES,Provinciales,Hosp. Zonal Gral. de Ag. Dr. I. Iriarte,TERAPIA INTENSIVA NEONATOLOGICA,2009,13
+VI,QUILMES,Provinciales,Hosp. Zonal Gral. de Ag. Dr. I. Iriarte,TERAPIA INTENSIVA,2009,10
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA,2009,5
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA INFANTIL,2009,7
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal Gral. de Ag. Dr. Lucio Meléndez,TERAPIA INTENSIVA NEONATOLOGICA,2009,8
+VI,BERAZATEGUI,Provinciales,Hosp. Zonal Gral. de Ag. Evita Pueblo,TERAPIA INTENSIVA,2009,8
+VI,BERAZATEGUI,Provinciales,Hosp. Zonal Gral. de Ag. Evita Pueblo,TERAPIA INTENSIVA NEONATOLOGICA,2009,25
+VI,EZEIZA,Provinciales,Hosp. Zonal Gral. de Ag. Madre Teresa de Calcuta,TERAPIA INTENSIVA,2009,9
+VI,EZEIZA,Provinciales,Hosp. Zonal Gral. de Ag. Madre Teresa de Calcuta,TERAPIA INTENSIVA NEONATOLOGICA,2009,10
+VI,FLORENCIO VARELA,Provinciales,Hosp. Zonal Gral. de Ag. Mi Pueblo,TERAPIA INTENSIVA,2009,6
+VI,FLORENCIO VARELA,Provinciales,Hosp. Zonal Gral. de Ag. Mi Pueblo,TERAPIA INTENSIVA NEONATOLOGICA,2009,20
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,TERAPIA INTENSIVA,2009,3
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,UNIDAD CORONARIA,2009,3
+VI,LANUS,Provinciales,Hosp. Zonal Gral. de Ag. Narciso López,TERAPIA INTENSIVA NEONATOLOGICA,2009,3
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal. Gral. Ag. Dr. Arturo Oñativia,TERAPIA INTENSIVA,2009,8
+VI,ALMIRANTE BROWN,Provinciales,Hosp. Zonal. Gral. Ag. Dr. Arturo Oñativia,TERAPIA INTENSIVA NEONATOLOGICA,2009,6
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Ag. Prof. Dr. R. Carrillo,TERAPIA INTENSIVA,2014,8
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Ag. Prof. Dr. R. Carrillo,UNIDAD CORONARIA,2014,6
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. C. A. Bocalandro,TERAPIA INTENSIVA,2014,7
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. C. A. Bocalandro,UNIDAD CORONARIA,2014,4
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Ag. Prof. Dr. R. Carrillo,TERAPIA INTENSIVA,2013,8
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Ag. Prof. Dr. R. Carrillo,UNIDAD CORONARIA,2013,6
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. C. A. Bocalandro,TERAPIA INTENSIVA,2013,7
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. C. A. Bocalandro,UNIDAD CORONARIA,2013,4
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Ag. Prof. Dr. R. Carrillo,TERAPIA INTENSIVA,2012,7
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Ag. Prof. Dr. R. Carrillo,UNIDAD CORONARIA,2012,6
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. C. A. Bocalandro,TERAPIA INTENSIVA,2012,9
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. C. A. Bocalandro,UNIDAD CORONARIA,2012,4
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Ag. Prof. Dr. R. Carrillo,TERAPIA INTENSIVA,2011,7
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Ag. Prof. Dr. R. Carrillo,UNIDAD CORONARIA,2011,6
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. C. A. Bocalandro,TERAPIA INTENSIVA,2011,8
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. C. A. Bocalandro,UNIDAD CORONARIA,2011,4
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Ag. Prof. Dr. R. Carrillo,TERAPIA INTENSIVA,2010,7
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Ag. Prof. Dr. R. Carrillo,UNIDAD CORONARIA,2010,6
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. C. A. Bocalandro,TERAPIA INTENSIVA,2010,9
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. C. A. Bocalandro,UNIDAD CORONARIA,2010,4
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Ag. Prof. Dr. R. Carrillo,TERAPIA INTENSIVA,2009,8
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Ag. Prof. Dr. R. Carrillo,UNIDAD CORONARIA,2009,5
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. C. A. Bocalandro,TERAPIA INTENSIVA,2009,9
+VII,TRES DE FEBRERO,Provinciales,Hosp. Zonal Gral. de Agudos Dr. C. A. Bocalandro,UNIDAD CORONARIA,2009,4
+VIII,AYACUCHO,Municipales,Hosp. Local Munic. Dr. Pedro Solanet,TERAPIA INTENSIVA,2009,5
+VIII,BALCARCE,Municipales,Hosp. Subz. Munic. de Balcarce,TERAPIA INTENSIVA,2009,7
+VIII,GRAL ALVARADO,Municipales,Hosp. Munic. Dr. Mariano Cassano,TERAPIA INTENSIVA,2009,4
+VIII,GRAL MADARIAGA,Municipales,Hosp. Munic. Ana R. S. de Martínez Guerrero,TERAPIA INTENSIVA,2009,2
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Esp. Mat. Infantil Don V. Tetamanti,TERAPIA INTENSIVA INFANTIL,2009,8
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Esp. Mat. Infantil Don V. Tetamanti,TERAPIA INTENSIVA NEONATOLOGICA,2009,14
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Gral. de Ag. Dr. O. Alende,TERAPIA INTENSIVA,2009,18
+VIII,GRAL PUEYRREDON,Provinciales,Hosp. Interz. Gral. de Ag. Dr. O. Alende,UNIDAD CORONARIA,2009,8
+VIII,LA COSTA,Municipales,Hosp. Munic. Carlos F. Macías,CUIDADOS ESPECIALES,2009,2
+VIII,LA COSTA,Municipales,Hosp. Munic. Carlos F. Macías,TERAPIA INTENSIVA,2009,5
+VIII,LA COSTA,Municipales,Unid. Munic. Roberto L. Dios,TERAPIA INTENSIVA,2009,2
+VIII,LOBERIA,Municipales,Hosp. Munic. Gaspar Campos,TERAPIA INTENSIVA,2009,4
+VIII,MAIPU,Municipales,Hosp. Subz. de Maipú,TERAPIA INTENSIVA,2009,4
+VIII,NECOCHEA,Municipales,Hosp. Munic. Dr. Emilio Ferreyra,TERAPIA INTENSIVA,2009,6
+VIII,SAN CAYETANO,Municipales,Hosp. Munic. Alberto Menditeguy,TERAPIA INTENSIVA,2009,4
+VIII,TANDIL,Municipales,Hosp. Munic. Ramón Santamarina,TERAPIA INTENSIVA,2009,7
+VIII,VILLA GESELL,Municipales,Hosp. Munic. de Ag. Dr. Arturo Illia,TERAPIA INTENSIVA,2009,4
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,TERAPIA INTENSIVA NEONATOLOGICA,2011,12
+IX,LAS FLORES,Provinciales,Hosp. Zonal Gral. de Las Flores,CUIDADOS ESPECIALES,2011,3
+IX,LAS FLORES,Provinciales,Hosp. Zonal Gral. de Las Flores,TERAPIA INTENSIVA,2011,5
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,CUIDADOS ESPECIALES INFANTILES,2010,4
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,TERAPIA INTENSIVA INFANTIL,2010,4
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,TERAPIA INTENSIVA NEONATOLOGICA,2010,11
+IX,LAS FLORES,Provinciales,Hosp. Zonal Gral. de Las Flores,CUIDADOS ESPECIALES,2010,3
+IX,LAS FLORES,Provinciales,Hosp. Zonal Gral. de Las Flores,TERAPIA INTENSIVA,2010,5
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,TERAPIA INTENSIVA INFANTIL,2009,3
+IX,AZUL,Provinciales,Hosp. Zonal Esp. Mat. Infantil A. Diego,TERAPIA INTENSIVA NEONATOLOGICA,2009,9
+IX,LAS FLORES,Provinciales,Hosp. Zonal Gral. de Las Flores,TERAPIA INTENSIVA,2009,5
+X,SALADILLO,Provinciales,Hosp. Zonal Gral. Dr. A. Posadas,TERAPIA INTENSIVA,2011,4
+X,SALADILLO,Provinciales,Hosp. Zonal Gral. Dr. A. Posadas,TERAPIA INTENSIVA,2010,4
+X,SALADILLO,Provinciales,Hosp. Zonal Gral. Dr. A. Posadas,TERAPIA INTENSIVA,2009,4
+X,SUIPACHA,Municipales,Hosp. Munic. Esteban Iribarne,TERAPIA INTENSIVA,2016,4
+X,SUIPACHA,Municipales,Hosp. Munic. Esteban Iribarne,TERAPIA INTENSIVA,2015,3
+X,SUIPACHA,Municipales,Hosp. Munic. Esteban Iribarne,TERAPIA INTENSIVA,2014,3
+X,VEINTICINCO DE MAYO,Municipales,Hosp. Subz. Saturnino Unzué,TERAPIA INTENSIVA,2009,8
+XI,PRESIDENTE PERON,Provinciales,Hosp. Zonal Gral. de Ag. Dra. Cecilia Grierson,TERAPIA INTENSIVA,2016,4
+XI,PRESIDENTE PERON,Provinciales,Hosp. Zonal Gral. de Ag. Dra. Cecilia Grierson,TERAPIA INTENSIVA NEONATOLOGICA,2016,7
+XI,PRESIDENTE PERON,Provinciales,Hosp. Zonal Gral. de Ag. Dra. Cecilia Grierson,TERAPIA INTENSIVA,2015,4
+XI,PRESIDENTE PERON,Provinciales,Hosp. Zonal Gral. de Ag. Dra. Cecilia Grierson,TERAPIA INTENSIVA NEONATOLOGICA,2015,7
+XI,PRESIDENTE PERON,Provinciales,Hosp. Zonal Gral. de Ag. Dra. Cecilia Grierson,TERAPIA INTENSIVA,2014,4
+XI,PRESIDENTE PERON,Provinciales,Hosp. Zonal Gral. de Ag. Dra. Cecilia Grierson,TERAPIA INTENSIVA NEONATOLOGICA,2014,7
+XI,PRESIDENTE PERON,Provinciales,Hosp. Zonal Gral. de Ag. Dra. Cecilia Grierson,TERAPIA INTENSIVA,2013,4
+XI,PRESIDENTE PERON,Provinciales,Hosp. Zonal Gral. de Ag. Dra. Cecilia Grierson,TERAPIA INTENSIVA NEONATOLOGICA,2013,7
+XI,PRESIDENTE PERON,Provinciales,Hosp. Zonal Gral. de Ag. Dra. Cecilia Grierson(121),TERAPIA INTENSIVA,2012,4
+XI,PRESIDENTE PERON,Provinciales,Hosp. Zonal Gral. de Ag. Dra. Cecilia Grierson(121),TERAPIA INTENSIVA NEONATOLOGICA,2012,6
+XI,PRESIDENTE PERON,Provinciales,Hosp. Zonal Gral. de Ag. Dra. Cecilia Grierson,TERAPIA INTENSIVA,2011,4
+XI,PRESIDENTE PERON,Provinciales,Hosp. Zonal Gral. de Ag. Dra. Cecilia Grierson,TERAPIA INTENSIVA NEONATOLOGICA,2011,5
+XI,PRESIDENTE PERON,Provinciales,Hosp. Zonal Gral. de Ag. Dra. Cecilia Grierson,TERAPIA INTENSIVA,2010,4
+XI,PRESIDENTE PERON,Provinciales,Hosp. Zonal Gral. de Ag. Dra. Cecilia Grierson,TERAPIA INTENSIVA NEONATOLOGICA,2010,5
+XI,PRESIDENTE PERON,Provinciales,Hosp. Zonal Gral. de Ag. Dra. Cecilia Grierson,TERAPIA INTENSIVA,2009,4
+XI,PRESIDENTE PERON,Provinciales,Hosp. Zonal Gral. de Ag. Dra. Cecilia Grierson,TERAPIA INTENSIVA NEONATOLOGICA,2009,6
+XI,PUNTA INDIO,Municipales,Hosp. de la Comunidad Dr. Guillermo Hernández,TERAPIA INTENSIVA,2016,2
+XI,PUNTA INDIO,Municipales,Hosp. de la Comunidad Dr. Guillermo Hernández,TERAPIA INTENSIVA,2015,2
+XI,PUNTA INDIO,Municipales,Hosp. de la Comunidad Dr. Guillermo Hernández,TERAPIA INTENSIVA,2014,2
+XI,PUNTA INDIO,Municipales,Hosp. de la Comunidad Dr. Guillermo Hernández,TERAPIA INTENSIVA,2013,2
+XI,PUNTA INDIO,Municipales,Hosp. de la Comunidad Dr. Guillermo Hernández,TERAPIA INTENSIVA,2012,2
+XI,PUNTA INDIO,Municipales,Hosp. de la Comunidad Dr. Guillermo Hernández,TERAPIA INTENSIVA,2011,2
+XI,PUNTA INDIO,Municipales,Hosp. de la Comunidad Dr. Guillermo Hernández,TERAPIA INTENSIVA,2010,2
+XI,PUNTA INDIO,Municipales,Hosp. de la Comunidad Dr. Guillermo Hernández,TERAPIA INTENSIVA,2009,2
+XI,SAN VICENTE,Municipales,Hosp. Subz. Gral. Dr. R. Carrillo,TERAPIA INTENSIVA,2009,4
+XII,LA MATANZA,Municipales,Hosp. Mat. Infantil Dra. T. L. Germani,CUIDADOS ESPECIALES,2009,2
+XII,LA MATANZA,Municipales,Hosp. Munic. de Niños de San Justo,TERAPIA INTENSIVA INFANTIL,2009,7
+XII,LA MATANZA,Municipales,Policlínico Central San Justo,CUIDADOS ESPECIALES,2009,3
+XII,LA MATANZA,Municipales,Policlínico Central San Justo,CUIDADOS ESPECIALES INFANTILES,2009,2
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,TERAPIA INTENSIVA,2009,6
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,UNIDAD CORONARIA,2009,5
+XII,LA MATANZA,Provinciales,Hosp. Interz. Gral. de Ag. Dr. Paroissien,TERAPIA INTENSIVA NEONATOLOGICA,2009,9
+XII,LA MATANZA,Provinciales,Hosp. Zonal de Ag. de González Catán Km.32,TERAPIA INTENSIVA,2009,9
